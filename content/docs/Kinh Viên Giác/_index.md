@@ -1,5 +1,5 @@
 ---
 title: "Kinh Viên Giác"
 bookCollapseSection: true
-weight: 1
+weight: 2
 ---
