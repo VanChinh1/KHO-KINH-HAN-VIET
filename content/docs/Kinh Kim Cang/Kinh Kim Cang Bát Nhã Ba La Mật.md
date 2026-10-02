@@ -1,4 +1,5 @@
 <div style="text-align: justify;">
+
 **KINH KIM CANG BÁT NHÃ BA LA MẬT**
 
 Dao Tần Tam Tạng Pháp Sư Cưu Ma La Thập phụng chiếu dịch
@@ -119,4 +120,6 @@ Như lộ, diệc như điện,
 Ứng tác như thị quán."
 Phật thuyết thử kinh ngật, Trưởng lão Tu-bồ-đề, dĩ cấp chư tỳ-kheo, tỳ-kheo-ni, ưu-bà-tắc, ưu-bà-di, nhất thiết thế gian thiên, nhân, a-tu-la, văn Phật sở thuyết, giai đại hoan hỷ, tín thọ phụng hành.
 BÁT NHÃ BA LA MẬT ĐA TÂM CHÂN NGÔN
-Yết-đế yết-đế, ba-la yết-đế, ba-la tăng yết-đế, Bồ-đề tát-bà-ha. (3 lần
+Yết-đế yết-đế, ba-la yết-đế, ba-la tăng yết-đế, Bồ-đề tát-bà-ha. (3 lần)
+
+</div>
