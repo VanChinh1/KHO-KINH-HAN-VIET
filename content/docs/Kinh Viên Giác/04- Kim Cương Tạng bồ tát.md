@@ -1,0 +1,13 @@
+**Chương 4. Bồ tát Kim Cương Tạng**
+
+Nhĩ thời Kim Cương Tạng Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Duy nguyện vị thử hội chư Bồ Tát chúng, cập vị mạt thế nhất thiết chúng sinh, diễn thuyết Như Lai cứu kính thanh tịnh Viên Giác đà-la-ni diệu pháp.
+Thế Tôn! Nhược chư chúng sinh bản lai thành Phật, nhân hà phục hữu nhất thiết vô minh? Nhược vô minh chúng sinh bản hữu, nhân hà duyên cố Như Lai thuyết bản lai thành Phật? Thập phương dị sinh bản thành Phật đạo, hậu khởi vô minh, nhất thiết Như Lai hà thì phục sinh phiền nổi? Duy nguyện bất sáp đại bi, vi chư Bồ Tát mở mở mật tạng, cập vị mạt thế chúng sinh khai mộc nhãn."
+Tác thị ngữ dị, ngũ thể đầu địa, như thị tam thỉnh, chung nhi phục thủy.
+Nhĩ thời Thế Tôn cáo Kim Cương Tạng Bồ Tát ngôn: "Thiện tai, thiện tai! Thiện nam tử! Nhữ đẳng năng vị chư Bồ Tát cập mạt thế chúng sinh, thỉnh vấn Như Lai thậm sâu bí mật cứu kính tính nghĩa, sử chư Bồ Tát đắc quyết định tâm, mạt thế chúng sinh bất sa tà kiến. Nhữ kim đế thính, đương vị nhữ thuyết."
+Nhĩ thời Kim Cương Tạng Bồ Tát phụng giáo hoan hỷ, đại chúng mộc nhiên mặc nhi thính thụ.
+"Thiện nam tử! Nhất thiết thế giới sinh diệt toàn diệt, diệt sinh trùng sinh, sinh sinh diệt diệt, tương tục vô gián, vọng kiến luân hồi. Bỉ vị xuất luân hồi nhi biện Viên Giác, bỉ Viên Giác tính tức đồng luân hồi, nhược dục miễn ư luân hồi, vô hữu thị xứ. Thí như động nhãn năng diệu tĩnh thủy, định nhãn năng chuyển hỏa nhị, mây bay nguyệt động, chu hành bờ di, diệc phục như thị.
+Thiện nam tử! Vị xuất luân hồi, tiên phân biệt Viên Giác, bỉ Viên Giác tính đồng ư luân chuyển. Nhược phiền nổi tâm tư duy phân biệt, cố năng đắc nhập Phật Viên Giác hải, vô hữu thị xứ.
+Thiện nam tử! Thí như kim quặng, dĩ đốt kim cố, kim bất phục vi quặng, kinh lịch cửu viễn, chung bất hoại tạp, bất ứng thuyết ngôn bản phi kim dã. Như Lai Viên Giác, diệc phục như thị.
+Thiện nam tử! Nhất thiết Như Lai diệu Viên Giác tâm, bản vô hoa đốm, diệc vô bệnh nhặm. Đương tri sinh tử Niết-bàn đồng như mộng hoa, vọng kiến sinh diệt, tri như không hoa, tức vô luân chuyển. Nhược diệu giác hiện chiếu, hoa đốm tự ly, cố tri chúng sinh bản lai thành Phật."
+Nhĩ thời Thế Tôn dục trùng tuyên thử nghĩa, nhi thuyết kệ ngôn:
+Kim Cương Tạng đương tri, Như Lai tịch diệt tính, Bản vô thủy vô chung. Nhược dĩ luân hồi tâm, Tư duy dĩ phân biệt, Đản chí luân hồi tế, Bất năng nhập Phật hải. Thí như luyện kim quặng, Kim phi do luyện hữu, Dĩ thành kim bảo cố, Bất phục trùng vi quặng. Sinh tử dữ Niết-bàn, Thần thông cập trí huệ, Giai thị huyễn hóa tướng, Cứu kính vô sở hữu.
