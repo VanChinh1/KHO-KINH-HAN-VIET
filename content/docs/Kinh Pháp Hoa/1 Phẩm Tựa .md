@@ -1,6 +1,7 @@
-KINH DIỆU PHÁP LIÊN HOA
-QUYỂN THỨ NHẤT
-PHẨM TỰA THỨ NHẤT
+**KINH DIỆU PHÁP LIÊN HOA**
+
+QUYỂN THỨ NHẤT-PHẨM TỰA THỨ NHẤT
+
 Như thị ngã văn: Nhất thời Phật tại Vương Xá thành, Kỳ-xà-quật sơn trung, dữ đại Tỷ-kheo chúng vạn nhị thiên nhân câu. Giai thị A-la-hán,諸 lậu dĩ tận, vô phục phiền não, đắc tự lợi hoàn, tận諸 hữu kết, tâm đắc tự tại.
 Kỳ danh viết: Ma-ha Ca-diếp, A-nói Lâu-đà, Kiếp-tân-na, Ma-ha Kiếp-tân-na, Ma-ha Câu-thi-la, Ma-ha Ca-chiên-diên, Ma-ha Mục-kiền-liên, Tỳ-lăng-già-bà-tha, Ngưu-vương, Ma-ha Bạt-đề, Tôn-đà-la Bạt-đề, Phú-lâu-na Diệc-đa-la-ni-tử, Tu-bồ-đề, A-nan, La-hầu-la, như thị đẳng thượng thủ Đại A-la-hán chúng sở kiến trí.
 Phục hữu Học, Vô học nhị thiên nhân. Hiền Kiếp thiên Bồ-tát, giai ư A-nậu-đa-la Tam-miệu Tam-bồ-đề bất thoái chuyển. Giai đắc Đà-la-ni, biện tài vô ngại, chuyển bất thoái pháp luân. Cúng dưỡng vô lượng bách thiên chư Phật, ư chư Phật sở thực chư đức bản, thường vi chư Phật sở xưng tán. Dĩ từ修 thân, thiện nhập Phật trí, thông đạt đại trí, đáo ư bỉ ngạn. Danh văn vô lượng thế giới, độ thoát vô số百 thiên chúng sinh.
