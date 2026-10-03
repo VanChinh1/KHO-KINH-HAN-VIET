@@ -20,12 +20,20 @@
     background: transparent !important;
   }
 
-  /* 3. Khung nội dung trắng mờ dễ đọc */
+  /* 3. Bỏ lề trên cùng để đẩy trang lên cao nhất và điều chỉnh khung nội dung */
   .book-page {
     background-color: rgba(255, 255, 255, 0.9) !important;
-    padding: 2rem !important;
+    padding: 0 2rem 2rem 2rem !important; /* Bỏ padding phía trên (top = 0) */
+    margin-top: 0 !important;
     border-radius: 8px !important;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+    overflow: hidden !important; /* Giúp banner bo tròn góc theo khung */
+  }
+
+  /* Xóa khoảng trống thừa trên cùng của container */
+  .book-posts, main.flex {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
   }
 
   /* 4. Căn đều 2 bên cho văn bản */
