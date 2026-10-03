@@ -1,4 +1,14 @@
-{{ $img := .Params.image | default .Parent.Params.image | default "/LogoT.png" }}
+{{ $img := .Params.image }}
+
+{{ if not $img }}
+  {{ if .Parent }}
+    {{ $img = .Parent.Params.image }}
+  {{ end }}
+{{ end }}
+
+{{ if not $img }}
+  {{ $img = "LogoT.png" }}
+{{ end }}
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="{{ $img | relURL }}" 
