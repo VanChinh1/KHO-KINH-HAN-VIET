@@ -6,3 +6,5 @@ theme = 'hugo-book'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[params]
+  BookCustomCSS = ["_custom.css"]
