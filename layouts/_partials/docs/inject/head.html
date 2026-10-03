@@ -1,0 +1,35 @@
+<style>
+  /* 1. Ảnh nền cho toàn bộ trang */
+  html, body {
+    background-image: url('/Background.png') !important;
+    background-repeat: no-repeat !important;
+    background-position: center top !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-color: transparent !important;
+  }
+
+  /* 2. Làm trong suốt các phần tử bọc ngoài */
+  .book-container, 
+  .book-menu, 
+  .book-page, 
+  .book-toc,
+  .book-header,
+  aside,
+  main {
+    background: transparent !important;
+  }
+
+  /* 3. Khung nội dung trắng mờ dễ đọc */
+  .book-page {
+    background-color: rgba(255, 255, 255, 0.9) !important;
+    padding: 2rem !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+  }
+
+  /* 4. Căn đều 2 bên cho văn bản */
+  article p, .book-page p, .markdown p {
+    text-align: justify !important;
+  }
+</style>
