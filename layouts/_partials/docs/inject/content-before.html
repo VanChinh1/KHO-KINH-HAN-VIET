@@ -1,3 +1,13 @@
+{{ if .Params.image }}
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/LogoT.png" alt="LogoT" style="width: 100%; max-width: 760px; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="{{ .Params.image | relURL }}" 
+       alt="{{ .Title }}" 
+       style="width: 100%; max-width: 760px; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
+{{ else }}
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="/LogoT.png" 
+       alt="Kho Kinh Hán Việt" 
+       style="width: 100%; max-width: 760px; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
+{{ end }}
