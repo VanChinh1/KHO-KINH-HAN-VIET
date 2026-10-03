@@ -1,5 +1,5 @@
 <style>
-  /* 1. Ảnh nền toàn trang */
+  /* 1. Ảnh nền cho toàn bộ trang */
   html, body {
     background-image: url('/Background.png') !important;
     background-repeat: no-repeat !important;
@@ -7,66 +7,78 @@
     background-size: cover !important;
     background-attachment: fixed !important;
     background-color: transparent !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
-  /* 2. Làm nổi bật thanh menu bên trái (.book-menu) */
+  /* 2. Xóa sạch khoảng trống đệm phía trên của khung chứa chính */
+  .book-container, 
+  main, 
+  main.flex,
+  .book-page,
+  .book-posts {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  /* 3. Làm trong suốt các phần tử bọc ngoài */
+  .book-container, 
+  .book-menu, 
+  .book-page, 
+  .book-toc,
+  .book-header,
+  aside,
+  main {
+    background: transparent !important;
+  }
+
+  /* 4. Khung trang kinh văn sát đỉnh */
+  .book-page {
+    background-color: rgba(255, 255, 255, 0.92) !important;
+    padding: 0 2rem 2rem 2rem !important;
+    border-radius: 0 0 8px 8px !important; /* Bo góc 2 bên dưới */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  }
+
+  /* 5. Làm nổi bật menu bên trái */
   .book-menu {
-    background-color: rgba(20, 15, 10, 0.75) !important; /* Lớp nền tối mờ giúp nổi bật chữ */
-    backdrop-filter: blur(8px) !important;              /* Hiệu ứng kính mờ sang trọng */
+    background-color: rgba(20, 15, 10, 0.75) !important;
+    backdrop-filter: blur(8px) !important;
     padding: 1.2rem !important;
     border-radius: 10px !important;
-    border: 1px solid rgba(255, 215, 0, 0.3) !important; /* Viền ánh vàng kim nhẹ */
+    border: 1px solid rgba(255, 215, 0, 0.3) !important;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
-    margin-top: 1rem !important;
+    margin-top: 0 !important;
   }
 
-  /* 3. Tiêu đề thương hiệu / Logo trên menu */
   .book-menu .book-brand a, 
   .book-menu .book-brand {
-    color: #ffd700 !important; /* Màu vàng kim nổi bật */
+    color: #ffd700 !important;
     font-weight: bold !important;
     font-size: 1.2rem !important;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important;
   }
 
-  /* 4. Định dạng chữ và đường dẫn trong menu */
   .book-menu nav a, 
   .book-menu nav span {
-    color: #f0f0f0 !important; /* Màu chữ trắng sáng */
+    color: #f0f0f0 !important;
     font-size: 0.95rem !important;
     transition: all 0.2s ease !important;
   }
 
-  /* 5. Hiệu ứng khi di chuột (hover) vào từng mục kinh */
-  .book-menu nav a:hover {
-    color: #ffd700 !important; /* Chuyển màu vàng kim */
-    padding-left: 6px !important; /* Nhích nhẹ sang phải */
-  }
-
-  /* 6. Mục kinh đang được chọn (Active) */
-  .book-menu nav a.active,
-  .book-menu nav ul li a.active {
+  .book-menu nav a:hover,
+  .book-menu nav a.active {
     color: #ffd700 !important;
     font-weight: bold !important;
   }
 
-  /* 7. Khung tìm kiếm (Search box) trong menu */
   .book-search input {
     background: rgba(255, 255, 255, 0.9) !important;
     border-radius: 6px !important;
     color: #333 !important;
   }
 
-  /* 8. Khung nội dung kinh văn */
-  .book-page {
-    background-color: rgba(255, 255, 255, 0.92) !important;
-    padding: 0 2rem 2rem 2rem !important;
-    margin-top: 0 !important;
-    border-radius: 8px !important;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
-  }
-
-  /* 9. Căn đều 2 bên văn bản */
+  /* 6. Căn đều 2 bên văn bản */
   article p, .book-page p, .markdown p {
     text-align: justify !important;
   }
