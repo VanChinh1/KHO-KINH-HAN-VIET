@@ -20,17 +20,17 @@
     background: transparent !important;
   }
 
-  /* 3. Bỏ lề trên cùng để đẩy trang lên cao nhất và điều chỉnh khung nội dung */
+  /* 3. Bỏ lề trên và BỎ overflow:hidden để position:sticky hoạt động */
   .book-page {
     background-color: rgba(255, 255, 255, 0.9) !important;
-    padding: 0 2rem 2rem 2rem !important; /* Bỏ padding phía trên (top = 0) */
+    padding: 0 2rem 2rem 2rem !important;
     margin-top: 0 !important;
     border-radius: 8px !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
-    overflow: hidden !important; /* Giúp banner bo tròn góc theo khung */
+    /* Không dùng overflow: hidden ở đây nữa */
   }
 
-  /* Xóa khoảng trống thừa trên cùng của container */
+  /* Xóa khoảng trống thừa trên cùng */
   .book-posts, main.flex {
     padding-top: 0 !important;
     margin-top: 0 !important;
