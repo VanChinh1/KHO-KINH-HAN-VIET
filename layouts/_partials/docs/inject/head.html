@@ -11,7 +11,7 @@
     padding: 0 !important;
   }
 
-  /* 2. Xóa sạch khoảng trống đệm phía trên của khung chứa chính */
+  /* 2. Xóa khoảng đệm phía trên */
   .book-container, 
   main, 
   main.flex,
@@ -32,25 +32,24 @@
     background: transparent !important;
   }
 
-  /* 4. Khung trang kinh văn sát đỉnh */
-  .book-page {
-    background-color: rgba(255, 255, 255, 0.92) !important;
-    padding: 0 2rem 2rem 2rem !important;
-    border-radius: 0 0 8px 8px !important; /* Bo góc 2 bên dưới */
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
-  }
-
-  /* 5. Làm nổi bật menu bên trái */
+  /* 4. CỐ ĐỊNH MENU BÊN TRÁI (Sticky Side Menu) */
   .book-menu {
-    background-color: rgba(20, 15, 10, 0.75) !important;
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 10px !important;               /* Cách mép trên 10px */
+    max-height: calc(100vh - 20px) !important; /* Chiều cao tối đa bằng màn hình */
+    overflow-y: auto !important;        /* Hiện thanh cuộn riêng cho menu nếu danh sách dài */
+    
+    background-color: rgba(20, 15, 10, 0.8) !important;
     backdrop-filter: blur(8px) !important;
     padding: 1.2rem !important;
     border-radius: 10px !important;
     border: 1px solid rgba(255, 215, 0, 0.3) !important;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
-    margin-top: 0 !important;
+    z-index: 90 !important;
   }
 
+  /* Định dạng chữ và đường dẫn trong menu */
   .book-menu .book-brand a, 
   .book-menu .book-brand {
     color: #ffd700 !important;
@@ -76,6 +75,14 @@
     background: rgba(255, 255, 255, 0.9) !important;
     border-radius: 6px !important;
     color: #333 !important;
+  }
+
+  /* 5. Khung trang kinh văn */
+  .book-page {
+    background-color: rgba(255, 255, 255, 0.92) !important;
+    padding: 0 2rem 2rem 2rem !important;
+    border-radius: 0 0 8px 8px !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
   }
 
   /* 6. Căn đều 2 bên văn bản */
