@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'KHO KINH HÁN VIỆT'
 theme = 'hugo-book' 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
