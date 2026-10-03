@@ -1,19 +1,35 @@
-/* Căn đều hai bên cho toàn bộ văn bản trong Hugo Book */
+/* 1. Đặt ảnh nền cố định cho toàn trang */
+html, body {
+  background-image: url('/Background.png') !important;
+  background-repeat: no-repeat !important;
+  background-position: center top !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  background-color: transparent !important;
+}
+
+/* 2. Bắt buộc các lớp nền của Hugo Book phải trong suốt để lộ ảnh nền */
+.book-container, 
+.book-menu, 
+.book-page, 
+.book-toc,
+.book-header,
+aside,
+main {
+  background: transparent !important;
+}
+
+/* 3. Tạo khung màu trắng mờ cho phần nội dung để dễ đọc chữ */
+.book-page {
+  background-color: rgba(255, 255, 255, 0.88) !important;
+  padding: 2rem !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* 4. Căn đều hai bên cho toàn bộ văn bản */
 article p, 
 .book-page p, 
 .markdown p {
   text-align: justify !important;
-}
-/* Đặt ảnh nền cho toàn bộ trang web */
-body {
-  background-image: url('/background.jpg'); /* Đường dẫn đến ảnh trong thư mục static */
-  background-repeat: no-repeat;            /* Không lặp lại ảnh */
-  background-position: center top;          /* Căn ảnh ở giữa phía trên */
-  background-size: cover;                  /* Co giãn ảnh vừa kích thước màn hình */
-  background-attachment: fixed;            /* Giữ cố định ảnh nền khi cuộn trang */
-}
-
-/* Tùy chỉnh làm mờ/trong suốt nền khung nội dung để dễ đọc chữ */
-.book-page, .book-menu, .book-toc {
-  background-color: rgba(255, 255, 255, 0.9) !important; /* Màu trắng trong suốt 90% */
 }
