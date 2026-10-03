@@ -32,17 +32,22 @@
     background: transparent !important;
   }
 
-  /* 4. ĐỊNH DẠNG CHUNG CHO MENU (Áp dụng cả máy tính & điện thoại) */
-  .book-menu {
-    background-color: rgba(20, 15, 10, 0.9) !important;
+  /* 4. ĐỊNH DẠNG CHUNG CHO MENU (Áp dụng màu tối & chữ vàng cho cả máy tính & điện thoại) */
+  .book-menu,
+  .book-menu-content,
+  aside.book-menu nav {
+    background-color: rgba(20, 15, 10, 0.95) !important; /* Màu tối trầm */
     backdrop-filter: blur(8px) !important;
+  }
+
+  .book-menu {
     padding: 1.2rem !important;
-    border-radius: 0px !important;
+    border-radius: 10px !important;
     border: 1px solid rgba(255, 215, 0, 0.3) !important;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
   }
 
-  /* Định dạng chữ và đường dẫn trong menu */
+  /* Tiêu đề & Chữ trong Menu */
   .book-menu .book-brand a, 
   .book-menu .book-brand {
     color: #ffd700 !important;
@@ -52,60 +57,70 @@
   }
 
   .book-menu nav a, 
-  .book-menu nav span {
-    color: #f0f0f0 !important;
+  .book-menu nav span,
+  .book-menu-content a {
+    color: #f0f0f0 !important; /* Màu trắng sáng */
     font-size: 0.95rem !important;
     transition: all 0.2s ease !important;
   }
 
   .book-menu nav a:hover,
-  .book-menu nav a.active {
-    color: #ffd700 !important;
+  .book-menu nav a.active,
+  .book-menu-content a.active {
+    color: #ffd700 !important; /* Màu vàng kim khi chọn */
     font-weight: bold !important;
   }
 
+  /* Khung tìm kiếm */
   .book-search input {
     background: rgba(255, 255, 255, 0.9) !important;
     border-radius: 6px !important;
     color: #333 !important;
   }
 
-  /* 5. CỐ ĐỊNH MENU CHỈ TRÊN MÀN HÌNH MÁY TÍNH (Màn hình > 56rem / ~896px) */
+  /* 5. CỐ ĐỊNH MENU CHỈ TRÊN MÀN HÌNH MÁY TÍNH (Màn hình > 56rem) */
   @media screen and (min-width: 56rem) {
     .book-menu {
       position: -webkit-sticky !important;
       position: sticky !important;
-      top: 10px !important;
+      top: 0px !important;
       max-height: calc(100vh - 20px) !important;
       overflow-y: auto !important;
       z-index: 90 !important;
     }
   }
 
-  /* 6. NÚT VÀ HEADER MENU TRÊN ĐIỆN THOẠI (Màn hình nhỏ) */
+  /* 6. ĐIỀU CHỈNH CHUYÊN BIỆT CHO ĐIỆN THOẠI (Ép nền tối cho drawer trượt ra) */
   @media screen and (max-width: 55.99rem) {
     .book-header {
-      background-color: rgba(20, 15, 10, 0.85) !important;
+      background-color: rgba(20, 15, 10, 0.9) !important;
       backdrop-filter: blur(6px) !important;
       color: #ffd700 !important;
-      padding: 10px !important;
+      padding: 0px !important;
       position: sticky !important;
       top: 0 !important;
       z-index: 1000 !important;
     }
 
     .book-header label {
-      color: #ffd700 !important; /* Đảm bảo nút 3 gạch mở menu hiện rõ màu vàng */
+      color: #ffd700 !important; /* Biểu tượng 3 gạch màu vàng kim */
       font-size: 1.5rem !important;
     }
 
-    .book-menu {
+    /* Ép khung menu trượt trên mobile mang nền tối và viền vàng */
+    aside.book-menu {
       position: fixed !important;
       top: 0 !important;
       bottom: 0 !important;
       left: 0 !important;
       z-index: 1001 !important;
+      width: 280px !important;
+      background-color: rgba(20, 15, 10, 0.98) !important; /* Nền tối đậm để không lộ chữ bên dưới */
       border-radius: 0 10px 10px 0 !important;
+    }
+
+    .book-menu-content {
+      background-color: transparent !important;
     }
   }
 
