@@ -1,3 +1,7 @@
+---
+title: "01 - Văn Thù Sư Lợi Bồ Tát"
+image: "/Hoa tang hai hoi.jpg"
+---
 **KINH DIỆU PHÁP LIÊN HOA**
 
 QUYỂN THỨ NHẤT-PHẨM TỰA THỨ NHẤT
