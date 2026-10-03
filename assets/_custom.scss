@@ -18,3 +18,18 @@ aside,
 main {
   background: transparent !important;
 }
+
+/* 3. Tạo khung màu trắng mờ cho phần nội dung để dễ đọc chữ */
+.book-page {
+  background-color: rgba(255, 255, 255, 0.88) !important;
+  padding: 2rem !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* 4. Căn đều hai bên cho toàn bộ văn bản */
+article p, 
+.book-page p, 
+.markdown p {
+  text-align: justify !important;
+}
