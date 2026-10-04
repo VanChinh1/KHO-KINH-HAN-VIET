@@ -1,4 +1,5 @@
-**Chương 1. Bồ tát Văn Thù Sư Lợi**
+# ĐẠI PHƯƠNG QUẢNG VIÊN GIÁC TU-ĐA-LA LIỄU NGHĨA
+## **Chương 1. Bồ tát Văn Thù Sư Lợi**
 
 Như thị ngã văn: Nhất thời Bạc-già-phạm nhập ư thần thông đại quang minh tạng, tam-muội chính thụ, bát-nhã ba-la-mật đa nghiêm sức cư xử, nhất thiết Như Lai hằng dụng trụ trì, chúng sinh thân tâm tịch diệt bình đẳng, viên mãn thập phương, bất nhị tùy thuận, ư bất nhị cảnh hiện chư tịnh độ. Dữ đại Bồ Tát ma-ha-tát thập nhị nhân câu, kỳ danh viết: Văn Thù Sư Lợi Bồ Tát, Phổ Hiền Bồ Tát, Phổ Nhãn Bồ Tát, Kim Cương Tạng Bồ Tát, Di Lặc Bồ Tát, Thanh Tịnh Trí Bồ Tát, Uy Đức Tự Tại Bồ Tát, Biện Âm Bồ Tát, Tịnh Chư Chướng Bồ Tát, Phổ Giác Bồ Tát, Viên Giác Bồ Tát, Hiền Thiện Thủ Bồ Tát, dữ kỳ quyến thuộc câu, giai nhập tam-muội, đồng trụ Như Lai bình đẳng pháp hội.
 
@@ -20,8 +21,20 @@ Thiện nam tử! Tri như không hoa, tức vô lưu chuyển, diệc vô thân
 
 Thiện nam tử! Tri huyễn tức ly, bất tác phương tiện; ly huyễn tức giác, diệc vô tiệm thứ. Nhất thiết Bồ Tát cập mạt thế chúng sinh, y thử tu hành, như thị nãi năng vĩnh ly chư huyễn."
 
-
 Nhĩ thời Thế Tôn dục trùng tuyên thử nghĩa, nhi thuyết kệ ngôn:
 
-
-Văn Thù nhữ đương tri, Nhất thiết chư Như Lai, Tòng ư bản nhân địa, Giai dĩ trí huệ giác. Liễu đạt ư vô minh, Tri như không trung hoa, Tức năng miễn lưu chuyển, Hữu như mộng trung nhân. Giác thì vô mộng cảnh, Huyễn thân đẳng hư không, Huyễn diệt giác hoàn mãn. Giác tâm bất động cố, Tám phong bất năng dao, Liễu tri vô sinh diệt, Nhập ư Phật trí huệ.
+Văn Thù nhữ đương tri
+Nhất thiết chư Như Lai
+Tòng ư bản nhân địa
+Giai dĩ trí huệ giác
+Liễu đạt ư vô minh
+Tri như không trung hoa
+Tức năng miễn lưu chuyển
+Hữu như mộng trung nhân
+Giác thì vô mộng cảnh
+Huyễn thân đẳng hư không
+Huyễn diệt giác hoàn mãn
+Giác tâm bất động cố
+Tám phong bất năng dao
+Liễu tri vô sinh diệt
+Nhập ư Phật trí huệ.
