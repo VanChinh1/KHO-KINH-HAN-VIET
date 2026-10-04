@@ -1,4 +1,4 @@
-**Chương 7. Bồ tát Uy Đức Tự Tại**
+# **Chương 7. Bồ tát Uy Đức Tự Tại**
 
 Nhĩ thời Uy Đức Tự Tại Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Quảng vị ngã đẳng phân biệt như thị tính tướng tu hành, như thị Bồ Tát công đức cảnh giới.
 Thế Tôn! Nhược chư Bồ Tát tu Viên Giác đạo, hữu kỷ chủng tu tập phương tiện? Duy nguyện đại bi, vị chư đại chúng cập mạt thế chúng sinh, tuyên thuyết chủng chủng phương tiện tiệm thứ."

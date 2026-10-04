@@ -1,4 +1,4 @@
-**Chương 4. Bồ tát Kim Cương Tạng**
+## **Chương 4. Bồ tát Kim Cương Tạng**
 
 Nhĩ thời Kim Cương Tạng Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Duy nguyện vị thử hội chư Bồ Tát chúng, cập vị mạt thế nhất thiết chúng sinh, diễn thuyết Như Lai cứu kính thanh tịnh Viên Giác đà-la-ni diệu pháp.
 Thế Tôn! Nhược chư chúng sinh bản lai thành Phật, nhân hà phục hữu nhất thiết vô minh? Nhược vô minh chúng sinh bản hữu, nhân hà duyên cố Như Lai thuyết bản lai thành Phật? Thập phương dị sinh bản thành Phật đạo, hậu khởi vô minh, nhất thiết Như Lai hà thì phục sinh phiền nổi? Duy nguyện bất sáp đại bi, vi chư Bồ Tát mở mở mật tạng, cập vị mạt thế chúng sinh khai mộc nhãn."

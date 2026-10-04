@@ -1,4 +1,4 @@
-**Chương 11. Bồ tát Viên Giác**
+# **Chương 11. Bồ tát Viên Giác**
 
 Nhĩ thời Viên Giác Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Quảng vị ngã đẳng tuyên thuyết chủng chủng phương tiện, linh chư chúng sinh đại đắc nhiêu ích.
 Thế Tôn! Ngã đẳng kim giả dĩ đắc khai ngộ, nhược Phật diệt hậu, mạt thế chúng sinh vị đắc ngộ giả, vân hà an cư, tu thử Viên Giác thanh tịnh cảnh giới? Thử Viên Giác trung tam chủng tịnh quán, dĩ hà vi thủ? Duy nguyện đại bi vị chư đại chúng cập mạt thế chúng sinh thí đại nhiêu ích."

@@ -1,4 +1,4 @@
-**Chương 3. Bồ tát Phổ Nhãn**
+## **Chương 3. Bồ tát Phổ Nhãn**
 
 Nhĩ thời Phổ Nhãn Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Duy nguyện vị thử hội chư Bồ Tát chúng, cập vị mạt thế nhất thiết chúng sinh, diễn thuyết Bồ Tát tu hành tiệm thứ, vân hà tư duy? Vân hà trụ trì? Chúng sinh mị ngộ, dĩ hà phương tiện lệnh đắc khai ngộ?
 Thế Tôn! Nhược bỉ chúng sinh vô thiện phương tiện, vô chính tư duy, văn Phật thuyết mộc tam-muội môn, do mộc muội cố, ư thử Viên Giác bất năng ngộ nhập. Duy nguyện Thế Tôn vi ngã đẳng cập mạt thế chúng sinh, tụng thuyết phương tiện."

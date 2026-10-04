@@ -1,4 +1,4 @@
-**Chương 2. Bồ tát Phổ Hiền**
+## **Chương 2. Bồ tát Phổ Hiền**
 
 Nhĩ thời Phổ Hiền Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Duy nguyện vị thử hội chư Bồ Tát chúng, cập vị mạt thế nhất thiết chúng sinh tu Đại thừa giả, văn thử Viên Giác thanh tịnh cảnh giới, vân hà tu hành? Thế Tôn! Nhược thử chúng sinh tri như huyễn cố, thân tâm diệc huyễn, vân hà dĩ huyễn hoàn tu ư huyễn? Nhược nhất thiết huyễn tính dĩ tận diệt, tức vô hữu tâm, vân hà tu hành? Vân hà phục thuyết tu huyễn tam-muội? Nhược chư chúng sinh bất tu phương tiện, hằng xứ sinh tử huyễn hóa cảnh trung, vân hà liễu đạt huyễn tâm giải thoát? Duy nguyện vị mạt thế nhất thiết chúng sinh, tác hà phương tiện tiệm thứ tu tập, lệnh chư chúng sinh vĩnh ly chư huyễn."
 Tác thị ngữ dị, ngũ thể đầu địa, như thị tam thỉnh, chung nhi phục thủy.

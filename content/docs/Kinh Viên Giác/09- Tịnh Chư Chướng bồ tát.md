@@ -1,4 +1,4 @@
-**Chương 9. Bồ tát Tịnh Chư Chướng**
+# **Chương 9. Bồ tát Tịnh Chư Chướng**
 
 Nhĩ thời Tịnh Chư Chướng Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Quảng vị ngã đẳng diễn thuyết như thị bất tư nghì sự, nhân địa pháp hành.
 Thế Tôn! Nhân hà thử chướng năng chướng chúng sinh bất đắc nhập ư thanh tịnh Viên Giác? Duy nguyện Thế Tôn quảng vị đại chúng dĩ cập mạt thế chúng sinh, khai thị chư chướng, sử chư chúng sinh vĩnh ly chư chướng."

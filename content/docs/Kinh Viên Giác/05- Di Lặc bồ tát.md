@@ -1,4 +1,4 @@
-**Chương 5. Bồ tát Di Lặc**
+# **Chương 5. Bồ tát Di Lặc**
 
 Nhĩ thời Di Lặc Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Quảng vị Bồ Tát mở mở mật tạng, sử chư đại chúng đại ngộ luân hồi, phân biệt tà chính, năng sử mạt thế nhất thiết chúng sinh vô sợ hãi tâm, ư đại thừa trung quyết định thanh tịnh.
 Thế Tôn! Nhược chư Bồ Tát cập mạt thế chúng sinh dục nhập Như Lai đại tịch diệt hải, vân hà đoạn trừ luân hồi căn bản? Ư chư luân hồi hữu kỷ chủng tính? Tu Phật Bồ-đề hữu kỷ sai biệt? Đương nhập trần lao thiết kỷ chủng phương tiện độ chư chúng sinh? Duy nguyện bất sáp cứu thế đại bi, lệnh chư tu hành Bồ Tát cập mạt thế chúng sinh mộc mục thanh tịnh, chiếu kiến tâm kính, viên mãn vô thượng Như Lai tri kiến."

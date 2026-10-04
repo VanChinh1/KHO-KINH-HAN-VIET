@@ -1,4 +1,4 @@
-**Chương 12. Bồ tát Hiền Thiện Thủ**
+# **Chương 12. Bồ tát Hiền Thiện Thủ**
 
 Nhĩ thời Hiền Thiện Thủ Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Quảng vị ngã đẳng cập mạt thế chúng sinh khai ngộ như thị bất tư nghì sự.
 Thế Tôn! Thử Đại thừa giáo danh tự hà đẳng? Vân hà phụng trì? Chúng sinh tu tập đắc hà công đức? Vân hà sử ngã hộ trì kinh nhân? Lưu bố thử giáo chí ư hà địa?"

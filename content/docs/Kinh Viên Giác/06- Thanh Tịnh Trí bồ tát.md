@@ -1,4 +1,4 @@
-**Chương 6. Bồ tát Thanh Tịnh Trí**
+# **Chương 6. Bồ tát Thanh Tịnh Trí**
 
 Nhĩ thời Thanh Tịnh Trí Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Quảng vị ngã đẳng diễn thuyết như thị bất tư nghì sự, nhân duyên pháp hành, sử chư đại chúng mộc mục thanh tịnh.
 Thế Tôn! Nhược thử Giác tâm bản tính thanh tịnh, nhân hà nhiễm ô sử chư chúng sinh mê muộn bất nhập? Duy nguyện Như Lai quảng vị ngã đẳng khai ngộ pháp tính, linh thử đại chúng cập mạt thế chúng sinh tác tương lai nhãn."

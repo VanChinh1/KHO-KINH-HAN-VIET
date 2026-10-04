@@ -1,4 +1,4 @@
-**Chương 10. Bồ tát Phổ Giác**
+# **Chương 10. Bồ tát Phổ Giác**
 
 Nhĩ thời Phổ Giác Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Quảng vị ngã đẳng thuyết chư bệnh dược, linh chư đại chúng đắc vị hữu.
 Thế Tôn! Mạt thế chúng sinh khứ Phật tiệm viễn, Hiền Thánh ẩn phục, tà pháp tăng xí, sử chư chúng sinh cầu hà đẳng nhân, y hà đẳng pháp, hành hà đẳng hạnh, trừ khử hà bệnh, vân hà phát tâm, linh bỉ quần manh bất đọa tà kiến?"

@@ -1,4 +1,4 @@
-**Chương 8. Bồ tát Biện Âm**
+# **Chương 8. Bồ tát Biện Âm**
 
 Nhĩ thời Biện Âm Bồ Tát tại đại chúng trung, tức tòng tòa khởi, đảnh lễ Phật túc, hữu nhiễu tam tạp, trường quỳ xoa thủ nhi bạch Phật ngôn: "Đại bi Thế Tôn! Như thị pháp môn, thậm vi hy hữu. Thế Tôn! Nhược thử môn trung dĩ tu tập giả, chư Bồ Tát đẳng dĩ hà phương tiện, hoặc đơn hoặc phục, hợp tu tập bỉ nhị thập ngũ chủng thanh tịnh định quán? Duy nguyện Đại Bi vị chư đại chúng cập mạt thế chúng sinh, tuyên thuyết phương tiện."
 Tác thị ngữ dị, ngũ thể đầu địa, như thị tam thỉnh, chung nhi phục thủy.
