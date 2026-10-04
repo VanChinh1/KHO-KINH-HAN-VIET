@@ -10,8 +10,19 @@
   {{ $img = "LogoT.png" }}
 {{ end }}
 
-<div style="position: -webkit-sticky; position: sticky; top: 0; z-index: 999; margin: 0 -2rem 20px -2rem; background-color: rgba(255, 255, 255, 0.95); text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); border-radius: 8px 8px 0 0; overflow: hidden;">
+<!-- Khung bao gồm cả Banner và Tiêu Đề Bộ Kinh ghim cố định cùng nhau -->
+<div style="position: -webkit-sticky; position: sticky; top: 0; z-index: 999; margin: 0 -2rem 15px -2rem; background-color: rgba(255, 255, 255, 0.98); text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); border-radius: 0 0 8px 8px; overflow: hidden;">
+  
+  <!-- Ảnh Banner -->
   <img src="{{ $img | relURL }}" 
        alt="{{ .Title }}" 
-       style="width: 100%; height: 220px; object-fit: cover; display: block;">
+       style="width: 100%; height: 200px; object-fit: cover; display: block;">
+
+  <!-- Tiêu đề bộ kinh cha (Tự động lấy tên "Kinh Viên Giác", "Kinh Kim Cang"... cho mọi chương) -->
+  {{ if .Parent }}
+    <div style="font-size: 1.6rem; font-weight: bold; color: #8b0000; padding: 10px 0; border-top: 1px solid rgba(184, 134, 11, 0.3); text-transform: uppercase; letter-spacing: 1px;">
+      {{ .Parent.Title }}
+    </div>
+  {{ end }}
+
 </div>
