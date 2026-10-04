@@ -1,5 +1,5 @@
 ---
-title: "01 - Văn Thù Sư Lợi Bồ Tát"
+title: "01 - Phẩm tựa"
 image: "/Hoa tang hai hoi.jpg"
 ---
 **KINH DIỆU PHÁP LIÊN HOA**
