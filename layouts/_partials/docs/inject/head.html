@@ -32,24 +32,22 @@
     background: transparent !important;
   }
 
-  /* 4. CỐ ĐỊNH MENU BÊN TRÁI (Sticky Side Menu) */
-  .book-menu {
-    position: -webkit-sticky !important;
-    position: sticky !important;
-    top: 0px !important;               /* Cách mép trên 10px */
-    max-height: calc(100vh - 20px) !important; /* Chiều cao tối đa bằng màn hình */
-    overflow-y: auto !important;        /* Hiện thanh cuộn riêng cho menu nếu danh sách dài */
-    
-    background-color: rgba(20, 15, 10, 0.8) !important;
+  /* 4. ĐỊNH DẠNG CHUNG CHO MENU (Áp dụng màu tối & chữ vàng cho cả máy tính & điện thoại) */
+  .book-menu,
+  .book-menu-content,
+  aside.book-menu nav {
+    background-color: hsl(35, 80%, 40%) !important; /* Màu vàng nhạt */
     backdrop-filter: blur(8px) !important;
+  }
+
+  .book-menu {
     padding: 1.2rem !important;
     border-radius: 10px !important;
     border: 1px solid rgba(255, 215, 0, 0.3) !important;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
-    z-index: 90 !important;
   }
 
-  /* Định dạng chữ và đường dẫn trong menu */
+  /* Tiêu đề & Chữ trong Menu */
   .book-menu .book-brand a, 
   .book-menu .book-brand {
     color: #ffd700 !important;
@@ -59,25 +57,75 @@
   }
 
   .book-menu nav a, 
-  .book-menu nav span {
-    color: #f0f0f0 !important;
+  .book-menu nav span,
+  .book-menu-content a {
+    color: #f0f0f0 !important; /* Màu trắng sáng */
     font-size: 0.95rem !important;
     transition: all 0.2s ease !important;
   }
 
   .book-menu nav a:hover,
-  .book-menu nav a.active {
-    color: #ffd700 !important;
+  .book-menu nav a.active,
+  .book-menu-content a.active {
+    color: #ffd700 !important; /* Màu vàng kim khi chọn */
     font-weight: bold !important;
   }
 
+  /* Khung tìm kiếm */
   .book-search input {
     background: rgba(255, 255, 255, 0.9) !important;
     border-radius: 6px !important;
     color: #333 !important;
   }
 
-  /* 5. Khung trang kinh văn */
+      
+  /* 5. CỐ ĐỊNH MENU CHỈ TRÊN MÀN HÌNH MÁY TÍNH (Màn hình > 56rem) */
+  @media screen and (min-width: 56rem) {
+    .book-menu {
+      position: -webkit-sticky !important;
+      position: sticky !important;
+      top: 0px !important;
+      max-height: calc(100vh - 20px) !important;
+      overflow-y: auto !important;
+      z-index: 90 !important;
+    }
+  }
+
+  /* 6. ĐIỀU CHỈNH CHUYÊN BIỆT CHO ĐIỆN THOẠI (Ép nền tối cho drawer trượt ra) */
+  @media screen and (max-width: 55.99rem) {
+    .book-header {
+      background-color: rgba(20, 15, 10, 0.9) !important;
+      backdrop-filter: blur(6px) !important;
+      color: gold !important;
+      padding: 10px !important;
+      position: sticky !important;
+      top: 0 !important;
+      z-index: 1000 !important;
+    }
+
+    .book-header label {
+      color: gold !important; /* Biểu tượng 3 gạch màu vàng kim */
+      font-size: 1.5rem !important;
+    }
+
+    /* Ép khung menu trượt trên mobile mang nền tối và viền vàng */
+    aside.book-menu {
+      position: fixed !important;
+      top: 0 !important;
+      bottom: 0 !important;
+      left: 0 !important;
+      z-index: 1001 !important;
+      width: 280px !important;
+      background-color: gold !important; /* Nền tối đậm để không lộ chữ bên dưới */
+      border-radius: 0 10px 10px 0 !important;
+    }
+
+    .book-menu-content {
+      background-color: transparent !important;
+    }
+  }
+
+  /* 7. Khung trang kinh văn */
   .book-page {
     background-color: rgba(255, 255, 255, 0.92) !important;
     padding: 0 2rem 2rem 2rem !important;
@@ -85,8 +133,24 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
   }
 
-  /* 6. Căn đều 2 bên văn bản */
+  /* 8. Căn đều 2 bên văn bản */
   article p, .book-page p, .markdown p {
     text-align: justify !important;
   }
+  /* Điều chỉnh cỡ chữ cho các cấp tiêu đề trong bài viết */
+.markdown h1, article h1 {
+  font-size: 1.8rem !important; /* Cỡ chữ cho H1 (#) */
+  color: #8b0000 !important;   /* Màu đỏ trầm trang nghiêm */
+  margin-top: 1.5rem !important;
+}
+
+.markdown h2, article h2 {
+  font-size: 1.4rem !important; /* Cỡ chữ cho H2 (##) */
+  color: #b8860b !important;   /* Màu vàng đồng */
+  border-bottom: 1px solid rgba(184, 134, 11, 0.3) !important;
+}
+
+.markdown h3, article h3 {
+  font-size: 1.2rem !important; /* Cỡ chữ cho H3 (###) */
+}
 </style>
