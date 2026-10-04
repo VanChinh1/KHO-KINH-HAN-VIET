@@ -153,4 +153,17 @@
 .markdown h3, article h3 {
   font-size: 1.2rem !important; /* Cỡ chữ cho H3 (###) */
 }
+  /* Tự động thêm tiêu đề Kinh Viên Giác vào đầu trang bài đọc */
+body[data-url*="kinh-vien-giac"] .book-page article::before,
+main article.markdown::before {
+  content: "ĐẠI PHƯƠNG QUẢNG VIÊN GIÁC TU-ĐA-LA LIỄU NGHĨA";
+  display: block;
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #8b0000;             /* Màu đỏ trầm trang nghiêm */
+  text-align: center;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid rgba(184, 134, 11, 0.4); /* Đường gạch nhã nhặn bên dưới */
+}
 </style>
