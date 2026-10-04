@@ -152,27 +152,4 @@
 
 .markdown h3, article h3 {
   font-size: 1.2rem !important; /* Cỡ chữ cho H3 (###) */
-/* CHỈ tự động hiển thị và ghim tiêu đề KINH VIÊN GIÁC cho các bài thuộc thư mục Kinh Viên Giác */
-body[data-url*="kinh-vien-giac"] .book-page article::before,
-body[data-url*="Kinh-Vien-Giac"] .book-page article::before {
-  content: "ĐẠI PHƯƠNG QUẢNG VIÊN GIÁC TU-ĐA-LA LIỄU NGHĨA";
-  display: block;
-  
-  /* Cấu hình ghim cố định khi cuộn */
-  position: -webkit-sticky;
-  position: sticky;
-  top: 220px;                 /* Ghim ngay dưới ảnh banner */
-  z-index: 98;
-  
-  font-size: 1.8rem;
-  font-weight: bold;
-  color: #8b0000;             /* Màu đỏ trầm trang nghiêm */
-  text-align: center;
-  padding: 0.6rem 0;
-  margin-bottom: 1.5rem;
-  
-  background-color: rgba(255, 255, 255, 0.95);
-  border-bottom: 2px solid rgba(184, 134, 11, 0.4);
-}
-}
 </style>
