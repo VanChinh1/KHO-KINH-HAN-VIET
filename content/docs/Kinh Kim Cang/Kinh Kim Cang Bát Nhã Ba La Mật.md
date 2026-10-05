@@ -1,5 +1,3 @@
-<div style="text-align: justify;">
-
 **KINH KIM CANG BÁT NHÃ BA LA MẬT**
 
 Dao Tần Tam Tạng Pháp Sư Cưu Ma La Thập phụng chiếu dịch
