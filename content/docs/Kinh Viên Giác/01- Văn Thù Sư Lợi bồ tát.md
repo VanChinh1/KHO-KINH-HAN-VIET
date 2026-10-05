@@ -22,18 +22,32 @@ Thiện nam tử! Tri huyễn tức ly, bất tác phương tiện; ly huyễn t
 
 Nhĩ thời Thế Tôn dục trùng tuyên thử nghĩa, nhi thuyết kệ ngôn:
 
-Văn Thù nhữ đương tri
-Nhất thiết chư Như Lai
-Tòng ư bản nhân địa
+Văn Thù nhữ đương tri.
+
+Nhất thiết chư Như Lai.
+
+Tòng ư bản nhân địa.
+
 Giai dĩ trí huệ giác
-Liễu đạt ư vô minh
-Tri như không trung hoa
-Tức năng miễn lưu chuyển
-Hữu như mộng trung nhân
-Giác thì vô mộng cảnh
-Huyễn thân đẳng hư không
-Huyễn diệt giác hoàn mãn
-Giác tâm bất động cố
-Tám phong bất năng dao
-Liễu tri vô sinh diệt
+
+Liễu đạt ư vô minh.
+
+Tri như không trung hoa.
+
+Tức năng miễn lưu chuyển.
+
+Hữu như mộng trung nhân.
+
+Giác thì vô mộng cảnh.
+
+Huyễn thân đẳng hư không.
+
+Huyễn diệt giác hoàn mãn.
+
+Giác tâm bất động cố.
+
+Tám phong bất năng dao.
+
+Liễu tri vô sinh diệt.
+
 Nhập ư Phật trí huệ.
