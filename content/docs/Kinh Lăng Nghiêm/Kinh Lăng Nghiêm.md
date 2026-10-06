@@ -1,5 +1,3 @@
-## **Chương 1. Bồ tát Văn Thù Sư Lợi**
-
 ĐẠI PHẬT ĐẲNG NHƯ LAI MẬT NHÂN TU CHỨNG LIỄU NGHĨA CHƯ BỒ TÁT VẠN HẠNH THỦ LĂNG NGHIÊM KINH
 QUYỂN THỨ NHẤT
 Đường Trung Thiên Trúc Sa Môn Bát Lạp Mật Đế dịch.
