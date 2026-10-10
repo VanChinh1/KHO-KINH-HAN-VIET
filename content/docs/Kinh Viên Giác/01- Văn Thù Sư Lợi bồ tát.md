@@ -1,4 +1,4 @@
-## **Chương 1. Bồ tát Văn Thù Sư Lợi**
+**Chương 1. Bồ tát Văn Thù Sư Lợi
 
 Như thị ngã văn: Nhất thời Bạc-già-phạm nhập ư thần thông đại quang minh tạng, tam-muội chính thụ, bát-nhã ba-la-mật đa nghiêm sức cư xử, nhất thiết Như Lai hằng dụng trụ trì, chúng sinh thân tâm tịch diệt bình đẳng, viên mãn thập phương, bất nhị tùy thuận, ư bất nhị cảnh hiện chư tịnh độ. Dữ đại Bồ Tát ma-ha-tát thập nhị nhân câu, kỳ danh viết: Văn Thù Sư Lợi Bồ Tát, Phổ Hiền Bồ Tát, Phổ Nhãn Bồ Tát, Kim Cương Tạng Bồ Tát, Di Lặc Bồ Tát, Thanh Tịnh Trí Bồ Tát, Uy Đức Tự Tại Bồ Tát, Biện Âm Bồ Tát, Tịnh Chư Chướng Bồ Tát, Phổ Giác Bồ Tát, Viên Giác Bồ Tát, Hiền Thiện Thủ Bồ Tát, dữ kỳ quyến thuộc câu, giai nhập tam-muội, đồng trụ Như Lai bình đẳng pháp hội.
 
