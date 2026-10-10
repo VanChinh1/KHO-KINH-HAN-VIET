@@ -163,27 +163,28 @@
     font-size: 1.2rem !important;
   }
 
-  /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CÂN BẰNG VỚI MENU TRÁI */
-  .book-toc,
-  aside.book-toc,
-  .book-toc-content {
-    background-color: hsl(35, 80%, 40%) !important;
-    backdrop-filter: blur(8px) !important;
-    color: #ffffff !important;
-    opacity: 1 !important;
-  }
+/* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CÂN BẰNG VỚI MENU TRÁI */
+  @media screen and (min-width: 56rem) {
+    /* Mở rộng khung chứa cột phải */
+    aside.book-toc {
+      flex: 0 0 16rem !important; /* Độ rộng bằng cột menu trái */
+      width: 16rem !important;
+    }
 
-  .book-toc {
-    padding: 1.2rem !important;
-    border-radius: 10px !important;
-    border: 1px solid rgba(255, 215, 0, 0.3) !important;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
-    min-height: 100vh !important;
-  }
-
-  .book-toc-content {
-    padding: 0 !important;
-    background: transparent !important;
+    /* Đưa cột phải về dạng sticky và áp màu nền chuẩn */
+    .book-toc-content {
+      position: -webkit-sticky !important;
+      position: sticky !important;
+      top: 0px !important;
+      max-height: calc(100vh - 20px) !important;
+      overflow-y: auto !important;
+      background-color: hsl(35, 80%, 40%) !important;
+      backdrop-filter: blur(8px) !important;
+      padding: 1.2rem !important;
+      border-radius: 10px !important;
+      border: 1px solid rgba(255, 215, 0, 0.3) !important;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
+    }
   }
 
   /* Định dạng chữ và liên kết KHO LUẬN HÁN VIỆT */
