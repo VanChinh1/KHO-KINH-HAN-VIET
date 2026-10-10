@@ -175,4 +175,67 @@
   color: #b8860b !important;
   font-weight: bold;
 }
+  /* Đồng bộ cột bên phải (TOC) cân xứng tuyệt đối với cột bên trái */
+@media screen and (min-width: 56rem) {
+  /* Biến toàn cục thiết lập độ rộng và khoảng cách */
+  :root {
+    --toc-width: 16rem; /* Độ rộng tương đương menu bên trái */
+  }
+
+  /* Định dạng khung container chính của cột phải */
+  .book-toc {
+    flex: 0 0 var(--toc-width) !important;
+    font-size: 0.875rem !important;
+  }
+
+  /* Khung nội dung dính cố định và tô màu nền vàng đồng như menu trái */
+  .book-toc-content {
+    position: fixed !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    width: var(--toc-width) !important;
+    padding: 1rem !important;
+    background-color: #b87333 !important; /* Màu nền vàng đồng/cam gỗ chuẩn theo cột trái */
+    color: #ffffff !important;
+    overflow-y: auto !important;
+    box-sizing: border-box !important;
+  }
+}
+
+/* Kiểu dáng cho phần KHO LUẬN HÁN VIỆT */
+.kho-luan-header {
+  font-size: 1.1rem !important;
+  font-weight: bold !important;
+  color: #ffffff !important;
+  text-transform: uppercase !important;
+  margin-bottom: 1rem !important;
+  padding-bottom: 0.5rem !important;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.kho-luan-list {
+  list-style: none !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
+}
+
+.kho-luan-list li {
+  margin-bottom: 0.5rem !important;
+}
+
+.kho-luan-list a {
+  color: #f3f4f6 !important;
+  text-decoration: none !important;
+  display: block !important;
+  padding: 0.4rem 0.6rem !important;
+  border-radius: 4px !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+/* Hiệu ứng di chuột và chọn mục tương tự menu trái */
+.kho-luan-list a:hover {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  color: #ffffff !important;
+  font-weight: bold !important;
+}
 </style>
