@@ -125,7 +125,7 @@
     }
   }
 
-  /* 7. Khung trang kinh văn */
+   /* 7. Khung trang kinh văn */
   .book-page {
     background-color: rgba(255, 255, 255, 0.92) !important;
     padding: 0 2rem 2rem 2rem !important;
@@ -152,4 +152,14 @@
 
 .markdown h3, article h3 {
   font-size: 1.2rem !important; /* Cỡ chữ cho H3 (###) */
+  /* Tăng cỡ chữ đồng loạt cho toàn bộ các đoạn văn bản đọc kinh */
+  article p, .markdown p, .book-page article p {
+    font-size: 1.25rem !important;   /* Tăng cỡ chữ rõ rệt (mặc định là 1rem) */
+    line-height: 1.9 !important;     /* Tăng khoảng cách dòng giúp dễ đọc */
+  }
+
+  /* Tăng cỡ chữ cho danh sách, ghi chú (nếu có) */
+  article li, .markdown li {
+    font-size: 1.2rem !important;
+  }
 </style>
