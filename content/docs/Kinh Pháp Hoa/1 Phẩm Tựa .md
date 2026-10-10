@@ -1,7 +1,3 @@
----
-title: "01 - Phẩm tựa"
-image: "/Hoa tang hai hoi.jpg"
----
 **KINH DIỆU PHÁP LIÊN HOA**
 
 QUYỂN THỨ NHẤT-PHẨM TỰA THỨ NHẤT
