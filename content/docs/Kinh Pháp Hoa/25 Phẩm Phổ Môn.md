@@ -1,5 +1,5 @@
 ---
-title: "01 - Phẩm Phổ Môn"
+title: "25 - Phẩm Phổ Môn"
 image: "/Hoa tang hai hoi.jpg"
 ---
 **KINH DIỆU PHÁP LIÊN HOA**
