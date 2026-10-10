@@ -8,3 +8,6 @@ theme = 'hugo-book'
       unsafe = true
 [params]
   BookCustomCSS = ["_custom.css"]
+[params]
+  # Đảm bảo cột bên phải (TOC) luôn hiển thị
+  BookToC = true
