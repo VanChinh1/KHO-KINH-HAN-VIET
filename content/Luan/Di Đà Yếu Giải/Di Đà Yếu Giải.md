@@ -1,3 +1,8 @@
+---
+title: "A Di Đà Kinh Yếu Giải"
+bookCollapseSection: true
+weight: 1
+---
 PHẬT THUYẾT A DI ĐÀ KINH YẾU GIẢI
 
 Tam Tạng Pháp Sư Cưu Ma La Thập dịch
