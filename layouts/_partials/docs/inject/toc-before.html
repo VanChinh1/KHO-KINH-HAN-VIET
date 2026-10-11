@@ -1,27 +1,30 @@
 <div class="kho-luan-container">
   <div class="kho-luan-header">
-    📜 KHO LUẬN HÁN VIỆT
+    KHO LUẬN HÁN VIỆT
   </div>
   <ul class="kho-luan-list">
-    {{/* Tự động duyệt qua tất cả thư mục và bài viết bên trong content/luan/ */}}
+    {{/* Tự động truy vấn thư mục content/luan/ */}}
     {{ with site.GetPage "section" "luan" }}
       {{ range .Sections }}
+        {{/* Tiêu đề thư mục bộ luận (Tự động lấy tên thư mục hoặc .LinkTitle) */}}
         <li style="margin-top: 0.8rem; margin-bottom: 0.3rem;">
-          <strong style="color: #ffd700; font-size: 0.95rem;">• {{ .Title }}</strong>
+          <strong style="color: #ffd700; font-size: 0.95rem;">• {{ .LinkTitle | default .Title }}</strong>
         </li>
+        
+        {{/* Tự động lấy các bài .md trong thư mục con đó */}}
         {{ range .Pages }}
           <li style="padding-left: 0.8rem;">
             <a href="{{ .RelPermalink }}">
-              - {{ .Title }}
+              - {{ .LinkTitle | default .Title }}
             </a>
           </li>
         {{ end }}
       {{ else }}
-        {{/* Nếu không chia thư mục con mà để file .md trực tiếp trong content/luan/ */}}
+        {{/* Trường hợp đặt file .md trực tiếp trong content/luan/ */}}
         {{ range .Pages }}
           <li>
             <a href="{{ .RelPermalink }}">
-              • {{ .Title }}
+              • {{ .LinkTitle | default .Title }}
             </a>
           </li>
         {{ end }}
