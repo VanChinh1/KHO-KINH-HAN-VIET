@@ -163,23 +163,23 @@
     font-size: 1.2rem !important;
   }
 
-/* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CỐ ĐỊNH TUYỆT ĐỐI KHÔNG BỊ NHẢY */
+/* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CỐ ĐỊNH, DÀI CHUẨN VÀ KHÔNG BAO GIỜ BỊ TRÔI */
   @media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
       width: 16rem !important;
       background: transparent !important;
-      align-self: flex-start !important; /* Giúp khung bám chặt đỉnh, không bị trôi khi cuộn đáy */
     }
 
     .book-toc-content {
       position: -webkit-sticky !important;
       position: sticky !important;
-      top: 10px !important; /* Khoảng cách cách mép trên màn hình 10px */
+      top: 10px !important;
       
-      /* Dùng max-height thay vì height cố định để tránh bị nhảy khung ở đáy */
+      /* Cố định chiều cao tuyệt đối bằng đúng khung nhìn màn hình trừ đi lề 20px */
+      height: calc(100vh - 20px) !important;
+      min-height: calc(100vh - 20px) !important;
       max-height: calc(100vh - 20px) !important;
-      height: auto !important;
       
       overflow-y: auto !important;
       overflow-x: hidden !important;
