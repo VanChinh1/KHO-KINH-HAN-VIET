@@ -1,13 +1,15 @@
 <div class="kho-luan-container">
-  <div class="kho-luan-header" style="font-size: 1.2rem; font-weight: bold; color: #ffd700; text-transform: uppercase; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid rgba(255, 215, 0, 0.4); text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);">
-    📜 KHO LUẬN HÁN VIỆT
+  <div class="book-brand" style="margin-bottom: 1rem;">
+    <a href="{{ relURL "luan/" }}" style="color: #ffd700 !important; font-weight: bold !important; font-size: 1.2rem !important; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important; text-decoration: none; display: block;">
+      📜 KHO LUẬN HÁN VIỆT
+    </a>
   </div>
 
-  <div class="book-search" style="margin-bottom: 1rem;">
-    <input type="text" placeholder="Search" style="width: 100%; padding: 0.4rem 0.6rem; border: none; outline: none; border-radius: 6px;" />
+  <div class="book-search" style="width: 100% !important; margin-bottom: 1rem !important; padding: 0 !important; box-sizing: border-box !important;">
+    <input type="text" placeholder="Search" style="width: 100% !important; box-sizing: border-box !important; background: rgba(255, 255, 255, 0.9) !important; border-radius: 6px !important; color: #333 !important; padding: 0.4rem 0.6rem !important; border: none !important; outline: none !important;" />
   </div>
 
-  <nav class="kho-luan-nav">
+  <nav class="book-menu-content">
     {{ $luanPage := site.GetPage "section" "luan" }}
     {{ if $luanPage }}
       <ul style="list-style: none; padding-left: 0; margin: 0;">
@@ -31,7 +33,7 @@
                       {{ end }}
 
                       <li style="margin-bottom: 0.3rem;">
-                        <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; background-color: {{ if $isCurrent }}rgba(255, 255, 255, 0.2){{ else }}transparent{{ end }}; transition: all 0.2s ease;">
+                        <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; background-color: {{ if $isCurrent }}rgba(255, 255, 255, 0.2){{ else }}transparent{{ end }}; font-size: 0.95rem !important; transition: all 0.2s ease;">
                           - {{ $fileName }}
                         </a>
                       </li>
@@ -53,7 +55,7 @@
               {{ end }}
 
               <li style="margin-bottom: 0.3rem;">
-                <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; background-color: {{ if $isCurrent }}rgba(255, 255, 255, 0.2){{ else }}transparent{{ end }};">
+                <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; background-color: {{ if $isCurrent }}rgba(255, 255, 255, 0.2){{ else }}transparent{{ end }}; font-size: 0.95rem !important;">
                   • {{ $fileName }}
                 </a>
               </li>
@@ -62,7 +64,7 @@
         {{ end }}
       </ul>
     {{ else }}
-      <p style="color: #f0f0f0; font-size: 0.9rem; font-style: italic;">Chưa có dữ liệu</p>
+      <p style="color: #f0f0f0; font-size: 0.95rem; font-style: italic;">Chưa có dữ liệu</p>
     {{ end }}
   </nav>
 </div>
