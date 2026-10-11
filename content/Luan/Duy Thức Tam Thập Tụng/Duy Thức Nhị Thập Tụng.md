@@ -1,6 +1,3 @@
-
-
-
 DUY THỨC NHỊ THẬP TỤNG
 
 (Đại Thừa Duy Thức Luận)
