@@ -32,7 +32,7 @@
     background: transparent !important;
   }
 
-  /* 4. ĐỊNH DẠNG CHUNG CHO MENU TRÁI (BẢN GỐC CỦA BẠN) */
+  /* 4. ĐỊNH DẠNG CHUNG CHO MENU TRÁI (GIỮ NGUYÊN BẢN GỐC) */
   .book-menu,
   .book-menu-content,
   aside.book-menu nav {
@@ -45,6 +45,7 @@
     border-radius: 10px !important;
     border: 1px solid rgba(255, 215, 0, 0.3) !important;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
+    box-sizing: border-box !important;
   }
 
   /* Tiêu đề & Chữ trong Menu Trái */
@@ -71,11 +72,12 @@
     font-weight: bold !important;
   }
 
-  /* Khung tìm kiếm menu trái (Khắc phục triệt để lỗi hụt viền phải) */
+  /* Khung tìm kiếm menu trái */
   .book-search {
-    width: calc(100% - 2.4rem) !important;
-    margin: 0 auto 1rem auto !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
     padding: 0 !important;
+    margin-bottom: 1rem !important;
   }
 
   .book-search input {
@@ -89,14 +91,16 @@
     outline: none !important;
   }
 
-  /* 5. CỐ ĐỊNH MENU TRÁI */
+  /* 5. CỐ ĐỊNH MENU TRÁI TRÊN MÁY TÍNH */
   @media screen and (min-width: 56rem) {
     .book-menu {
       position: -webkit-sticky !important;
       position: sticky !important;
-      top: 0px !important;
+      top: 10px !important;
+      height: calc(100vh - 20px) !important;
       max-height: calc(100vh - 20px) !important;
       overflow-y: auto !important;
+      overflow-x: hidden !important;
       z-index: 90 !important;
     }
   }
@@ -170,29 +174,41 @@
     font-size: 1.2rem !important;
   }
 
- /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) GIỐNG HỆT MENU TRÁI */
+  /* 9. ĐỒNG BỘ TUYỆT ĐỐI CỘT BÊN PHẢI GIỐNG HỆT CỘT BÊN TRÁI */
   @media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
       width: 16rem !important;
       background: transparent !important;
+      padding: 0 !important;
+      
+      /* Áp dụng chính xác thông số chiều cao và cuộn y hệt menu trái */
       position: -webkit-sticky !important;
       position: sticky !important;
-      top: 0px !important;
+      top: 10px !important;
+      height: calc(100vh - 20px) !important;
       max-height: calc(100vh - 20px) !important;
       overflow-y: auto !important;
+      overflow-x: hidden !important;
       z-index: 90 !important;
-    }
-
-    .book-toc-content {
-      height: auto !important;
-      max-height: none !important;
+      
       background-color: hsl(35, 80%, 40%) !important;
       backdrop-filter: blur(8px) !important;
-      padding: 1.2rem !important;
       border-radius: 10px !important;
       border: 1px solid rgba(255, 215, 0, 0.3) !important;
       box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
+      box-sizing: border-box !important;
+    }
+
+    .book-toc-content {
+      background-color: transparent !important;
+      padding: 1.2rem !important;
+      height: auto !important;
+      max-height: none !important;
+      overflow: visible !important;
+      border: none !important;
+      box-shadow: none !important;
+      border-radius: 0 !important;
       box-sizing: border-box !important;
     }
   }
@@ -201,5 +217,48 @@
   .book-toc .book-toc-content > a,
   .book-toc nav > a:first-child {
     display: none !important;
+  }
+
+  /* Định dạng nội dung Kho Luận (Menu phải) đồng bộ cỡ chữ và màu sắc */
+  .kho-luan-container {
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+
+  .kho-luan-header {
+    font-size: 1.2rem !important;
+    font-weight: bold !important;
+    color: #ffd700 !important;
+    text-transform: uppercase !important;
+    margin-bottom: 1rem !important;
+    padding-bottom: 0.5rem !important;
+    border-bottom: 1px solid rgba(255, 215, 0, 0.4) !important;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important;
+  }
+
+  .kho-luan-nav ul {
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin: 0 !important;
+  }
+
+  .kho-luan-nav li {
+    margin-bottom: 0.4rem !important;
+  }
+
+  .kho-luan-nav a {
+    color: #f0f0f0 !important;
+    text-decoration: none !important;
+    display: block !important;
+    padding: 0.3rem 0.5rem !important;
+    border-radius: 4px !important;
+    font-size: 0.95rem !important;
+    transition: background-color 0.2s ease, color 0.2s ease !important;
+  }
+
+  .kho-luan-nav a:hover {
+    color: #ffd700 !important;
+    background-color: rgba(255, 255, 255, 0.15) !important;
+    font-weight: bold !important;
   }
 </style>
