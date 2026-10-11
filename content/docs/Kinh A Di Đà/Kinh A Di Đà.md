@@ -2,7 +2,7 @@
 
 Dao Tần Tam Tạng Pháp Sư Cưu-Ma-La-Thập dịch
 
-Như thị ngã văn: Nhất thời Phật tại Xá-vệ quốc, Kỳ-thọ Cấp-cô-độc viện, dữ đại Tỷ-kheo chúng, thiên nhị bách ngũ thập nhân câu, giai thị đại A-la-hán, chúng sở tri thức: Trưởng lão Xá-Lợi-Phất, Ma-ha Mục-kiền-liên, Ma-ha Ca-diếp, Ma-ha Ca-chiên-diên, Ma-ha Câu-hy-la, Ly-bà-đa, Chu-lợi-bàn-đà-già, Nan-đà, A-nan-đà, La-hầu-la, Kiều-phạm-ba-đề, Tân-đầu-lô-phả-la-đọa, Khương-lưu-đà-di, Ma-ha Kiếp-tân-na, Bạc-câu-la, A-nâu-lâu-đà, như thị đẳng chư đại đệ tử. Cập chư Bồ-tát Ma-ha-tát: Văn-thù-sư-lợi Pháp-vương-tử, A-dật-đa Bồ-tát, Càn-đà-ha-đề Bồ-tát, Thường-tinh-tấn Bồ-tát, dữ như thị đẳng chư đại Bồ-tát. Cập Thích-đề-hoàn-nhân đẳng, vô lượng chư thiên đại chúng câu. 
+Như thị ngã văn: Nhất thời Phật tại Xá-vệ quốc, Kỳ-thọ Cấp-cô-độc viên, dữ đại Tỷ-kheo chúng, thiên nhị bách ngũ thập nhân câu, giai thị đại A-la-hán, chúng sở tri thức: Trưởng lão Xá-Lợi-Phất, Ma-ha Mục-kiền-liên, Ma-ha Ca-diếp, Ma-ha Ca-chiên-diên, Ma-ha Câu-hy-la, Ly-bà-đa, Chu-lợi-bàn-đà-già, Nan-đà, A-nan-đà, La-hầu-la, Kiều-phạm-ba-đề, Tân-đầu-lô-phả-la-đọa, Khương-lưu-đà-di, Ma-ha Kiếp-tân-na, Bạc-câu-la, A-nâu-lâu-đà, như thị đẳng chư đại đệ tử. Cập chư Bồ-tát Ma-ha-tát: Văn-thù-sư-lợi Pháp-vương-tử, A-dật-đa Bồ-tát, Càn-đà-ha-đề Bồ-tát, Thường-tinh-tấn Bồ-tát, dữ như thị đẳng chư đại Bồ-tát. Cập Thích-đề-hoàn-nhân đẳng, vô lượng chư thiên đại chúng câu. 
 
 Nhĩ thời Phật cáo Trưởng lão Xá-Lợi-Phất: "Tòng thị tây phương, quá thập vạn ức Phật độ, hữu thế giới danh viết Cực Lạc. Bỉ độ hữu Phật, hiệu A Di Đà, kim hiện tại thuyết pháp.
 
