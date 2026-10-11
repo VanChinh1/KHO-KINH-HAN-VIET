@@ -15,7 +15,7 @@
         {{ range .Pages }}
           <li style="padding-left: 0.8rem;">
             <a href="{{ .RelPermalink }}">
-              - {{ .LinkTitle | default .Title }}
+              {{ .LinkTitle | default .Title }}
             </a>
           </li>
         {{ end }}
