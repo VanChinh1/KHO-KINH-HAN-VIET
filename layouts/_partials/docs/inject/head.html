@@ -165,25 +165,31 @@
 
 /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CÂN BẰNG VỚI MENU TRÁI */
   @media screen and (min-width: 56rem) {
-    /* Mở rộng khung chứa cột phải */
     aside.book-toc {
-      flex: 0 0 16rem !important; /* Độ rộng bằng cột menu trái */
+      flex: 0 0 16rem !important;
       width: 16rem !important;
     }
 
-    /* Đưa cột phải về dạng sticky và áp màu nền chuẩn */
     .book-toc-content {
       position: -webkit-sticky !important;
       position: sticky !important;
       top: 0px !important;
-      max-height: calc(100vh - 20px) !important;
+      
+      /* PHẦN ĐIỀU CHỈNH ĐỂ KÉO DÀI HẾT MÀN HÌNH */
+      height: 100vh !important;               /* Ép chiều cao bằng 100% màn hình hiển thị */
+      min-height: 100vh !important;           /* Giữ nền luôn dài tràn tới đáy */
+      max-height: 100vh !important;
+      
       overflow-y: auto !important;
       background-color: hsl(35, 80%, 40%) !important;
       backdrop-filter: blur(8px) !important;
       padding: 1.2rem !important;
-      border-radius: 10px !important;
+      
+      /* Bo góc phẳng ở mép dưới để tạo cảm giác kéo dài liền mạch */
+      border-radius: 10px 0 0 10px !important; 
       border: 1px solid rgba(255, 215, 0, 0.3) !important;
       box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
+      box-sizing: border-box !important;
     }
   }
 
