@@ -163,25 +163,26 @@
     font-size: 1.2rem !important;
   }
 
-/* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CỐ ĐỊNH HOÀN TOÀN VỚI MENU TRÁI */
+/* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CỐ ĐỊNH TUYỆT ĐỐI KHÔNG BỊ NHẢY */
   @media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
       width: 16rem !important;
       background: transparent !important;
+      align-self: flex-start !important; /* Giúp khung bám chặt đỉnh, không bị trôi khi cuộn đáy */
     }
 
     .book-toc-content {
       position: -webkit-sticky !important;
       position: sticky !important;
-      top: 0px !important;
+      top: 10px !important; /* Khoảng cách cách mép trên màn hình 10px */
       
-      height: 100vh !important;
-      min-height: 100vh !important;
-      max-height: 100vh !important;
+      /* Dùng max-height thay vì height cố định để tránh bị nhảy khung ở đáy */
+      max-height: calc(100vh - 20px) !important;
+      height: auto !important;
       
       overflow-y: auto !important;
-      overflow-x: hidden !important; /* Chống tràn ngang gây dịch chuyển */
+      overflow-x: hidden !important;
       background-color: hsl(35, 80%, 40%) !important;
       backdrop-filter: blur(8px) !important;
       padding: 1.2rem !important;
