@@ -1,7 +1,10 @@
 PHẬT THUYẾT A DI ĐÀ KINH YẾU GIẢI
+
 Tam Tạng Pháp Sư Cưu Ma La Thập dịch
 Tây Hữu Sa Môn Ngẫu Ích Trí Húc giải
+
 TỰA MỞ ĐẦU
+
 Nguyên phu chư Phật mẫn niệm quần mê, tùy cơ thi hóa. Tuy quy nguyên vô nhị, nhi phương tiện đa môn. Nhiên ư nhất thiết phương tiện chi trung, cầu kỳ chí trực tiệp chí viên đốn giả, mạc nhược niệm Phật cầu sinh Tịnh độ. Hựu ư nhất thiết niệm Phật pháp môn chi trung, cầu kỳ chí giản dịch chí ổn đương giả, mạc nhược tín nguyện chuyên trì danh hiệu. Thị cố Tịnh độ tam kinh tịnh hành ư thế, nhi cổ nhân độc dĩ 《A Di Đà Kinh》 biệt vi nhật khóa, khởi phi hữu kiến ư trì danh nhất pháp phổ bị tam căn, nhiếp sự lý dĩ vô di, thống tông giáo nhi vô ngoại, hưu bất khả tư nghị dã tai! 
 Cổ lai chú sớ đại bất phạp nhân, thế viễn tựu yên sở tồn vô kỷ, Vân Tê hòa thượng trứ vi 《Sớ Sao》, quảng đại tinh vi; U Khê sư bác thuật 《Viên Trung Sao》, cao thâm hồng bác, cái như nhật nguyệt trung thiên hữu mục giai đổ, đặc dĩ văn phú nghĩa phồn, biên nhai mạc trắc, hoặc trí sơ cơ thiển thức, tín nguyện nan giai, cố phục phất tru dung ngu, tái thuật 《Yếu Giải》, bất cảm dữ nhị ông cạnh dị, diệc bất tất dữ nhị ông cưỡng đồng. Thí như trắc khán thành phong, hoành khán thành lĩnh, túng giai bất tận Lư Sơn chân cảnh, yếu bất thất vi các các thân kiến Lư Sơn nhi dị.
 Tương giải kinh văn, tiên dịch ngũ trọng huyền nghĩa.
