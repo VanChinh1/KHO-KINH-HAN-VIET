@@ -1,6 +1,11 @@
 <div class="kho-luan-container">
+  <!-- Khung tìm kiếm đồng bộ với menu trái -->
+  <div class="book-search" style="margin-bottom: 1rem;">
+    <input type="text" placeholder="Search" style="width: 100%; padding: 0.4rem 0.6rem; border: none; outline: none;" />
+  </div>
+
   <div class="kho-luan-header" style="font-size: 1.2rem; font-weight: bold; color: #ffd700; text-transform: uppercase; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid rgba(255, 215, 0, 0.4); text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);">
-  KHO LUẬN HÁN VIỆT
+    KHO LUẬN HÁN VIỆT
   </div>
 
   <nav class="kho-luan-nav">
@@ -8,8 +13,8 @@
     {{ if $luanPage }}
       <ul style="list-style: none; padding-left: 0; margin: 0;">
         {{ range $luanPage.Sections }}
-          {{/* Bỏ qua nếu tên thư mục là index */}}
-          {{ if ne .File.BaseFileName "index" }}
+          {{/* Lọc bỏ các tệp/thư mục hệ thống bắt đầu bằng dấu _ */}}
+          {{ if not (hasPrefix .File.BaseFileName "_") }}
             <li style="margin-top: 0.8rem; margin-bottom: 0.3rem;">
               <span style="color: #ffd700; font-weight: bold; font-size: 0.95rem; display: block;">
                 • {{ with .File }}{{ .BaseFileName }}{{ else }}{{ .Title }}{{ end }}
@@ -18,7 +23,7 @@
               {{ if .Pages }}
                 <ul style="list-style: none; padding-left: 1rem; margin-top: 0.3rem;">
                   {{ range .Pages }}
-                    {{ if ne .File.BaseFileName "index" }}
+                    {{ if not (hasPrefix .File.BaseFileName "_") }}
                       {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
                       {{ $fileName := "" }}
                       {{ with .File }}
@@ -40,7 +45,7 @@
           {{ end }}
         {{ else }}
           {{ range $luanPage.Pages }}
-            {{ if ne .File.BaseFileName "index" }}
+            {{ if not (hasPrefix .File.BaseFileName "_") }}
               {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
               {{ $fileName := "" }}
               {{ with .File }}
