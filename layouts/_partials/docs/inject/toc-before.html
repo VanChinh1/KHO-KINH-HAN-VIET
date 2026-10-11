@@ -9,19 +9,27 @@
     {{ if $luanPage }}
       <ul style="list-style: none; padding-left: 0; margin: 0;">
         {{ range $luanPage.Sections }}
-          {{/* Tên các nhóm/thư mục con (Ví dụ: Đại Thừa, Trung Quán...) */}}
+          {{/* Lấy tên thư mục con (có thể dùng .File.BaseFileName hoặc .Title) */}}
           <li style="margin-top: 0.8rem; margin-bottom: 0.3rem;">
             <span style="color: #ffd700; font-weight: bold; font-size: 0.95rem; display: block;">
-              • {{ .LinkTitle | default .Title }}
+              • {{ with .File }}{{ .BaseFileName }}{{ else }}{{ .Title }}{{ end }}
             </span>
             
             {{ if .Pages }}
               <ul style="list-style: none; padding-left: 1rem; margin-top: 0.3rem;">
                 {{ range .Pages }}
                   {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
+                  {{/* BẮT BUỘC LẤY TÊN TỆP .MD LÀM TIÊU ĐỀ */}}
+                  {{ $fileName := "" }}
+                  {{ with .File }}
+                    {{ $fileName = .BaseFileName }}
+                  {{ else }}
+                    {{ $fileName = .Title }}
+                  {{ end }}
+
                   <li style="margin-bottom: 0.3rem;">
                     <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; transition: all 0.2s ease;">
-                      - {{ .LinkTitle | default .Title }}
+                      - {{ $fileName }}
                     </a>
                   </li>
                 {{ end }}
@@ -29,12 +37,19 @@
             {{ endif }}
           </li>
         {{ else }}
-          {{/* Trường hợp đặt file .md trực tiếp không qua thư mục con */}}
+          {{/* Trường hợp đặt file .md trực tiếp trong content/luan/ */}}
           {{ range $luanPage.Pages }}
             {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
+            {{ $fileName := "" }}
+            {{ with .File }}
+              {{ $fileName = .BaseFileName }}
+            {{ else }}
+              {{ $fileName = .Title }}
+            {{ end }}
+
             <li style="margin-bottom: 0.3rem;">
               <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }};">
-                • {{ .LinkTitle | default .Title }}
+                • {{ $fileName }}
               </a>
             </li>
           {{ end }}
