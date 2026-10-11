@@ -170,29 +170,26 @@
     font-size: 1.2rem !important;
   }
 
-  /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) - ỔN ĐỊNH CỐ ĐỊNH */
-@media screen and (min-width: 56rem) {
+ /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) GIỐNG HỆT MENU TRÁI */
+  @media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
       width: 16rem !important;
       background: transparent !important;
-    }
-
-    .book-toc-content {
       position: -webkit-sticky !important;
       position: sticky !important;
       top: 0px !important;
-      
-      height: 100vh !important;
-      min-height: 95vh !important;
-      max-height: 100vh !important;
-      
+      max-height: calc(100vh - 20px) !important;
       overflow-y: auto !important;
-      overflow-x: hidden !important;
+      z-index: 90 !important;
+    }
+
+    .book-toc-content {
+      height: auto !important;
+      max-height: none !important;
       background-color: hsl(35, 80%, 40%) !important;
       backdrop-filter: blur(8px) !important;
       padding: 1.2rem !important;
-      
       border-radius: 10px !important;
       border: 1px solid rgba(255, 215, 0, 0.3) !important;
       box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
@@ -200,63 +197,9 @@
     }
   }
 
-  /* Ẩn các thành phần mục lục mặc định thừa của Hugo Book ở cột phải */
+  /* Ẩn các thành phần mục lục mặc định thừa ở cột phải */
   .book-toc .book-toc-content > a,
   .book-toc nav > a:first-child {
     display: none !important;
-  }
-
-  /* Định dạng tiêu đề Kho Luận */
-  .kho-luan-container {
-    width: 100% !important;
-    box-sizing: border-box !important;
-  }
-
-  .kho-luan-header {
-    font-size: 1.2rem !important;
-    font-weight: bold !important;
-    color: gold !important;
-    text-transform: uppercase !important;
-    margin-bottom: 0rem !important;
-    padding-bottom: 1.2rem !important;
-    border-bottom: 4px solid rgba(255, 215, 0, 0.4) !important;
-    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
-  }
-
-  /* Đồng bộ cỡ chữ menu bên phải nhỏ bằng bên trái (0.95rem) */
-  .kho-luan-list,
-  .kho-luan-nav {
-    font-size: 0.95rem !important;
-  }
-
-  .kho-luan-nav ul,
-  .kho-luan-list {
-    list-style: none !important;
-    padding-left: 0 !important;
-    margin: 0 !important;
-  }
-
-  .kho-luan-nav li,
-  .kho-luan-list li {
-    margin-bottom: 0.4rem !important;
-    font-size: 0.95rem !important;
-  }
-
-  .kho-luan-nav a,
-  .kho-luan-list a {
-    color: #f0f0f0 !important;
-    text-decoration: none !important;
-    display: block !important;
-    padding: 0.3rem 0.5rem !important;
-    border-radius: 4px !important;
-    font-size: 0.95rem !important;
-    transition: all 0.2s ease !important;
-  }
-
-  .kho-luan-nav a:hover,
-  .kho-luan-list a:hover {
-    color: #ffd700 !important;
-    background-color: rgba(255, 255, 255, 0.15) !important;
-    font-weight: bold !important;
   }
 </style>
