@@ -2,12 +2,15 @@
 
 
 DUY THỨC NHỊ THẬP TỤNG
+
 (Đại Thừa Duy Thức Luận)
 
 Bồ Tát Thế Thân tạo
+
 Đường Tam Tạng Pháp Sư Huyền Trang dịch Hán
 
 PHẦN MỞ ĐẦU: TỤNG QUY KÍNH
+
 Ngã kim tạo Luận thắng Đại Thừa,
 
 Tuyên thuyết Duy Thức giáo lý nghĩa,
@@ -16,62 +19,99 @@ Quy mệnh Đạt-ma dữ Bồ-tát,
 
 Vi dĩ chư hạnh ly triền phược.
 
-PHẦN CHÍNH VĂN: 20 BÀI TỤNG CHÍNH
-Bài 1
+CHẮNH VĂN PHÂN
 
-Vô xá duy thức thành, như nhân mục quái giáp,
+1
 
-Kiến văn bất thực vật, cập bỉ sở tác sự.
+Vô xá duy thức thành,
 
-Bài 2
+Như nhân mục quái giáp,
 
-Xứ thời định bất định, tương tục bất quyết định,
+Kiến văn bất thực vật,
 
-Dự tác tác hữu dụng, như mộng đẳng hà thành?
+Cập bỉ sở tác sự.
 
-Bài 3
+2
 
-Mộng tội xứ thời định, ngục tát đẳng câu thành,
+Xứ thời định bất định,
 
-Nhất thiết kiến ngục tát, họa hại câu thành cố.
+Tương tục bất quyết định,
 
-Bài 4
+Dự tác tác hữu dụng,
 
-Dư do tự nghiệp lực, như dư phi bỉ sát,
+Như mộng đẳng hà thành?
 
-Dị thục biến như thị, hà cố bất hứa bỉ?
+3
 
-Bài 5
+Mộng tội xứ thời định,
 
-Tập khí thành dư xứ, biến hóa phi sở dư,
+Ngục tát đẳng câu thành,
 
-Vô biên tập khí tại, biến hóa hạ bất tương?
+Nhất thiết kiến ngục tát,
 
-Bài 6
+Họa hại câu thành cố.
 
-Nhược nghiệp tập khí tại, phi tức nghiệp dị thục,
+4
 
-Dị thục biến như thị, lý sở bất thành cố.
+Dư do tự nghiệp lực,
 
-Bài 7
+Như dư phi bỉ sát,
 
-Thức biến biến như thị, phân biệt do thử sinh,
+Dị thục biến như thị,
 
-Biến hiện dư tương tục, bỉ bỉ tác năng sở.
+Hà cố bất hứa bỉ?
 
-Bài 8
+5
 
-Do thử Phật mật ngôn, hữu thập nhị xứ thuyết,
+Tập khí thành dư xứ,
 
-Vi hóa độ hữu tình, như thuyết hóa sanh đẳng.
+Biến hóa phi sở dư,
 
-Bài 9
+Vô biên tập khí tại,
 
-Thức tự chủng biến hiện, năng duyên cập sở duyên,
+Biến hóa hạ bất tương?
 
-Cố Phật thuyết nhị xứ, giai thị duy thức biến.
+6
 
-Bài 10
+Nhược nghiệp tập khí tại, 
+
+Phi tức nghiệp dị thục,
+
+Dị thục biến như thị,
+
+Lý sở bất thành cố.
+
+7
+
+Thức biến biến như thị,
+
+Phân biệt do thử sinh,
+
+Biến hiện dư tương tục,
+
+Bỉ bỉ tác năng sở.
+
+8
+
+Do thử Phật mật ngôn,
+
+Hữu thập nhị xứ thuyết,
+
+Vi hóa độ hữu tình,
+
+Như thuyết hóa sanh đẳng.
+
+9
+
+Thức tự chủng biến hiện,
+
+Năng duyên cập sở duyên,
+
+Cố Phật thuyết nhị xứ,
+
+Giai thị duy thức biến.
+
+10
 
 Do bỉ chủng năng sinh, chủng chủng cảnh tương hiện,
 
