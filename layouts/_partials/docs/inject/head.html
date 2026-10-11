@@ -171,10 +171,11 @@
   }
 
   /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) - ỔN ĐỊNH CỐ ĐỊNH */
-  @media screen and (min-width: 56rem) {
+@media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
       width: 16rem !important;
+      background: transparent !important;
     }
 
     .book-toc-content {
@@ -192,11 +193,17 @@
       backdrop-filter: blur(8px) !important;
       padding: 1.2rem !important;
       
-      border-radius: 10px 0 0 10px !important; 
+      border-radius: 10px !important;
       border: 1px solid rgba(255, 215, 0, 0.3) !important;
-      box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.4) !important;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
       box-sizing: border-box !important;
     }
+  }
+
+  /* Ẩn các thành phần mục lục mặc định thừa của Hugo Book ở cột phải */
+  .book-toc .book-toc-content > a,
+  .book-toc nav > a:first-child {
+    display: none !important;
   }
 
   /* Định dạng tiêu đề Kho Luận */
