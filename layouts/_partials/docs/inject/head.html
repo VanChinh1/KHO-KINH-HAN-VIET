@@ -32,7 +32,7 @@
     background: transparent !important;
   }
 
-  /* 4. ĐỊNH DẠNG CHUNG CHO MENU TRÁI (BẢN GỐC CỦA BẠN) */
+  /* 4. ĐỊNH DẠNG CHUNG CHO MENU TRÁI (GIỮ NGUYÊN BẢN GỐC) */
   .book-menu,
   .book-menu-content,
   aside.book-menu nav {
@@ -71,14 +71,14 @@
     font-weight: bold !important;
   }
 
-  /* Khung tìm kiếm menu trái */
+  /* Khung tìm kiếm */
   .book-search input {
     background: rgba(255, 255, 255, 0.9) !important;
     border-radius: 6px !important;
     color: #333 !important;
   }
 
-  /* 5. CỐ ĐỊNH MENU TRÁI (BẢN GỐC CỦA BẠN) */
+  /* 5. CỐ ĐỊNH MENU CHỈ TRÊN MÀN HÌNH MÁY TÍNH (GIỮ NGUYÊN BẢN GỐC) */
   @media screen and (min-width: 56rem) {
     .book-menu {
       position: -webkit-sticky !important;
@@ -90,7 +90,7 @@
     }
   }
 
-  /* 6. ĐIỀU CHỈNH CHO ĐIỆN THOẠI */
+  /* 6. ĐIỀU CHỈNH CHUYÊN BIỆT CHO ĐIỆN THOẠI */
   @media screen and (max-width: 55.99rem) {
     .book-header {
       background-color: rgba(20, 15, 10, 0.9) !important;
@@ -131,11 +131,9 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
   }
 
-  /* 8. Căn đều văn bản & cỡ chữ */
+  /* 8. Căn đều 2 bên văn bản & cỡ chữ */
   article p, .book-page p, .markdown p {
     text-align: justify !important;
-    font-size: 1.25rem !important;
-    line-height: 1.9 !important;
   }
 
   .markdown h1, article h1 {
@@ -155,80 +153,81 @@
     color: #b8860b !important;
   }
 
+  /* Tăng cỡ chữ đồng loạt cho toàn bộ các đoạn văn bản đọc kinh */
+  article p, .markdown p, .book-page article p {
+    font-size: 1.25rem !important;
+    line-height: 1.9 !important;
+  }
+
   article li, .markdown li {
     font-size: 1.2rem !important;
   }
 
-  /* 9. ĐIỀU CHỈNH RIÊNG CHO MENU BÊN PHẢI (KHO LUẬN HÁN VIỆT) */
+  /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) - Ổn định khung, không bị dịch chuyển */
   @media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
       width: 16rem !important;
-      background: transparent !important;
     }
 
     .book-toc-content {
       position: -webkit-sticky !important;
       position: sticky !important;
       top: 0px !important;
-      height: calc(100vh - 20px) !important;
-      max-height: calc(100vh - 20px) !important;
+      
+      height: 100vh !important;
+      min-height: 95vh !important;
+      max-height: 100vh !important;
+      
       overflow-y: auto !important;
-      overflow-x: hidden !important;
+      overflow-x: hidden !important; /* Chống chạy lệch ngang khi rê chuột */
       background-color: hsl(35, 80%, 40%) !important;
       backdrop-filter: blur(8px) !important;
       padding: 1.2rem !important;
-      border-radius: 10px !important;
+      
+      border-radius: 10px 0 0 10px !important; 
       border: 1px solid rgba(255, 215, 0, 0.3) !important;
       box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
       box-sizing: border-box !important;
     }
   }
 
-  /* Ẩn mục lục mặc định thừa ở cột phải */
-  .book-toc .book-toc-content > a,
-  .book-toc nav > a:first-child {
-    display: none !important;
-  }
-
-  /* Định dạng nội dung bên trong Kho Luận (Menu phải) */
+  /* Định dạng chữ và liên kết KHO LUẬN HÁN VIỆT */
   .kho-luan-container {
     width: 100% !important;
-    box-sizing: border-box !important;
   }
 
   .kho-luan-header {
     font-size: 1.2rem !important;
     font-weight: bold !important;
-    color: #ffd700 !important;
+    color: gold !important;
     text-transform: uppercase !important;
-    margin-bottom: 1rem !important;
-    padding-bottom: 0.5rem !important;
-    border-bottom: 1px solid rgba(255, 215, 0, 0.4) !important;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important;
+    margin-bottom: 0rem !important;
+    padding-bottom: 1.2rem !important;
+    border-bottom: 4px solid rgba(255, 215, 0, 0.4) !important;
+    text-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
   }
 
-  .kho-luan-nav ul {
+  .kho-luan-list {
     list-style: none !important;
     padding-left: 0 !important;
     margin: 0 !important;
   }
 
-  .kho-luan-nav li {
-    margin-bottom: 0.4rem !important;
+  .kho-luan-list li {
+    margin-bottom: 0.5rem !important;
   }
 
-  .kho-luan-nav a {
+  .kho-luan-list a {
     color: #f0f0f0 !important;
     text-decoration: none !important;
     display: block !important;
-    padding: 0.3rem 0.5rem !important;
+    padding: 0.4rem 0.6rem !important;
     border-radius: 4px !important;
-    font-size: 0.95rem !important;
-    transition: background-color 0.2s ease, color 0.2s ease !important;
+    transition: all 0.2s ease !important;
   }
 
-  .kho-luan-nav a:hover {
+  .kho-luan-list a:hover {
     color: #ffd700 !important;
     background-color: rgba(255, 255, 255, 0.15) !important;
     font-weight: bold !important;
