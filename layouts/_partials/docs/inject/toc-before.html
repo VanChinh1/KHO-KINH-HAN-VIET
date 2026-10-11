@@ -1,7 +1,6 @@
-
 <div class="kho-luan-container">
   <div class="kho-luan-header" style="font-size: 1.2rem; font-weight: bold; color: #ffd700; text-transform: uppercase; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid rgba(255, 215, 0, 0.4); text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8);">
-    📜 KHO LUẬN HÁN VIỆT
+  KHO LUẬN HÁN VIỆT
   </div>
 
   <nav class="kho-luan-nav">
@@ -9,51 +8,58 @@
     {{ if $luanPage }}
       <ul style="list-style: none; padding-left: 0; margin: 0;">
         {{ range $luanPage.Sections }}
-          <li style="margin-top: 0.8rem; margin-bottom: 0.3rem;">
-            <span style="color: #ffd700; font-weight: bold; font-size: 0.95rem; display: block;">
-              • {{ with .File }}{{ .BaseFileName }}{{ else }}{{ .Title }}{{ end }}
-            </span>
-            
-            {{ if .Pages }}
-              <ul style="list-style: none; padding-left: 1rem; margin-top: 0.3rem;">
-                {{ range .Pages }}
-                  {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
-                  {{ $fileName := "" }}
-                  {{ with .File }}
-                    {{ $fileName = .BaseFileName }}
-                  {{ else }}
-                    {{ $fileName = .Title }}
-                  {{ end }}
+          {{/* Bỏ qua nếu tên thư mục là index */}}
+          {{ if ne .File.BaseFileName "index" }}
+            <li style="margin-top: 0.8rem; margin-bottom: 0.3rem;">
+              <span style="color: #ffd700; font-weight: bold; font-size: 0.95rem; display: block;">
+                • {{ with .File }}{{ .BaseFileName }}{{ else }}{{ .Title }}{{ end }}
+              </span>
+              
+              {{ if .Pages }}
+                <ul style="list-style: none; padding-left: 1rem; margin-top: 0.3rem;">
+                  {{ range .Pages }}
+                    {{ if ne .File.BaseFileName "index" }}
+                      {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
+                      {{ $fileName := "" }}
+                      {{ with .File }}
+                        {{ $fileName = .BaseFileName }}
+                      {{ else }}
+                        {{ $fileName = .Title }}
+                      {{ end }}
 
-                  <li style="margin-bottom: 0.3rem;">
-                    <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; transition: all 0.2s ease;">
-                      - {{ $fileName }}
-                    </a>
-                  </li>
-                {{ end }}
-              </ul>
-            {{ end }}
-          </li>
+                      <li style="margin-bottom: 0.3rem;">
+                        <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; background-color: {{ if $isCurrent }}rgba(255, 255, 255, 0.2){{ else }}transparent{{ end }}; transition: all 0.2s ease;">
+                          - {{ $fileName }}
+                        </a>
+                      </li>
+                    {{ end }}
+                  {{ end }}
+                </ul>
+              {{ end }}
+            </li>
+          {{ end }}
         {{ else }}
           {{ range $luanPage.Pages }}
-            {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
-            {{ $fileName := "" }}
-            {{ with .File }}
-              {{ $fileName = .BaseFileName }}
-            {{ else }}
-              {{ $fileName = .Title }}
-            {{ end }}
+            {{ if ne .File.BaseFileName "index" }}
+              {{ $isCurrent := eq $.Page.RelPermalink .RelPermalink }}
+              {{ $fileName := "" }}
+              {{ with .File }}
+                {{ $fileName = .BaseFileName }}
+              {{ else }}
+                {{ $fileName = .Title }}
+              {{ end }}
 
-            <li style="margin-bottom: 0.3rem;">
-              <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.2rem 0.4rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }};">
-                • {{ $fileName }}
-              </a>
-            </li>
+              <li style="margin-bottom: 0.3rem;">
+                <a href="{{ .RelPermalink }}" style="color: {{ if $isCurrent }}#ffd700{{ else }}#f0f0f0{{ end }} !important; text-decoration: none; display: block; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: {{ if $isCurrent }}bold{{ else }}normal{{ end }}; background-color: {{ if $isCurrent }}rgba(255, 255, 255, 0.2){{ else }}transparent{{ end }};">
+                  • {{ $fileName }}
+                </a>
+              </li>
+            {{ end }}
           {{ end }}
         {{ end }}
       </ul>
     {{ else }}
-      <p style="color: #f0f0f0; font-size: 0.9rem; font-style: italic;">Chưa có dữ liệu thư mục luan</p>
+      <p style="color: #f0f0f0; font-size: 0.9rem; font-style: italic;">Chưa có dữ liệu</p>
     {{ end }}
   </nav>
 </div>
