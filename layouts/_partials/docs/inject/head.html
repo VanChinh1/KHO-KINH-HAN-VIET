@@ -78,19 +78,19 @@
     color: #333 !important;
   }
 
-  /* 5. CỐ ĐỊNH MENU CHỈ TRÊN MÀN HÌNH MÁY TÍNH (Màn hình > 56rem) */
+  /* 5. CỐ ĐỊNH MENU TRÁI TRÊN MÁY TÍNH */
   @media screen and (min-width: 56rem) {
     .book-menu {
       position: -webkit-sticky !important;
       position: sticky !important;
-      top: 0px !important;
+      top: 10px !important;
       max-height: calc(100vh - 20px) !important;
       overflow-y: auto !important;
       z-index: 90 !important;
     }
   }
 
-  /* 6. ĐIỀU CHỈNH CHUYÊN BIỆT CHO ĐIỆN THOẠI */
+  /* 6. ĐIỀU CHỈNH CHO ĐIỆN THOẠI */
   @media screen and (max-width: 55.99rem) {
     .book-header {
       background-color: rgba(20, 15, 10, 0.9) !important;
@@ -131,9 +131,11 @@
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
   }
 
-  /* 8. Căn đều 2 bên văn bản & cỡ chữ */
+  /* 8. Căn đều văn bản & cỡ chữ */
   article p, .book-page p, .markdown p {
     text-align: justify !important;
+    font-size: 1.25rem !important;
+    line-height: 1.9 !important;
   }
 
   .markdown h1, article h1 {
@@ -153,17 +155,11 @@
     color: #b8860b !important;
   }
 
-  /* Tăng cỡ chữ đồng loạt cho toàn bộ các đoạn văn bản đọc kinh */
-  article p, .markdown p, .book-page article p {
-    font-size: 1.25rem !important;
-    line-height: 1.9 !important;
-  }
-
   article li, .markdown li {
     font-size: 1.2rem !important;
   }
 
-/* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CỐ ĐỊNH, DÀI CHUẨN VÀ KHÔNG BAO GIỜ BỊ TRÔI */
+  /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) CỐ ĐỊNH, CHUẨN KÍCH THƯỚC */
   @media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
@@ -176,7 +172,6 @@
       position: sticky !important;
       top: 10px !important;
       
-      /* Cố định chiều cao tuyệt đối bằng đúng khung nhìn màn hình trừ đi lề 20px */
       height: calc(100vh - 20px) !important;
       min-height: calc(100vh - 20px) !important;
       max-height: calc(100vh - 20px) !important;
@@ -194,7 +189,7 @@
     }
   }
 
-  /* Ẩn icon tài liệu mặc định của Hugo Book ở đầu cột phải nếu có */
+  /* Ẩn icon tài liệu mặc định của Hugo Book ở đầu cột phải */
   .book-toc .book-toc-content > a,
   .book-toc nav > a:first-child {
     display: none !important;
@@ -241,9 +236,5 @@
     color: #ffd700 !important;
     background-color: rgba(255, 255, 255, 0.15) !important;
     font-weight: bold !important;
-  }
-  /* Đồng bộ font chữ menu phải với menu trái */
-  .kho-luan-nav a {
-    font-size: 0.95rem !important;
   }
 </style>
