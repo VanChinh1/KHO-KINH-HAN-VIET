@@ -174,34 +174,32 @@
     font-size: 1.2rem !important;
   }
 
-  /* 9. ĐỒNG BỘ CỘT BÊN PHẢI (KHO LUẬN HÁN VIỆT) ĐỘC LẬP HOÀN TOÀN */
+/* 9. ĐỒNG BỘ TUYỆT ĐỐI CỘT BÊN PHẢI CÓ THANH TRUỢT DỌC VÀ CHIỀU CAO GIỐNG HỆT MENU TRÁI */
   @media screen and (min-width: 56rem) {
     aside.book-toc {
       flex: 0 0 16rem !important;
       width: 16rem !important;
       background: transparent !important;
-      padding: 0 !important;
-    }
-
-    .book-toc-content {
       position: -webkit-sticky !important;
       position: sticky !important;
       top: 0px !important;
-      
-      height: 100vh !important;
-      min-height: 95vh !important;
-      max-height: 100vh !important;
-      
+      max-height: calc(100vh - 20px) !important;
       overflow-y: auto !important;
       overflow-x: hidden !important;
+      z-index: 90 !important;
+    }
+
+    .book-toc-content {
       background-color: hsl(35, 80%, 40%) !important;
       backdrop-filter: blur(8px) !important;
       padding: 1.2rem !important;
-      
-      border-radius: 10px !important; 
+      border-radius: 10px !important;
       border: 1px solid rgba(255, 215, 0, 0.3) !important;
       box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
       box-sizing: border-box !important;
+      height: auto !important;
+      max-height: none !important;
+      overflow: visible !important;
     }
   }
 
