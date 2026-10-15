@@ -1,6 +1,6 @@
 <div class="kho-luan-container">
   <div class="book-brand" style="margin-bottom: 1rem;">
-    <a href="{{ relURL "luan/" }}" style="color: #ffd700 !important; font-weight: bold !important; font-size: 1.2rem !important; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important; text-decoration: none; display: block;">
+    <a href="{{ relURL "Luan/" }}" style="color: #ffd700 !important; font-weight: bold !important; font-size: 1.2rem !important; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important; text-decoration: none; display: block;">
       📜 KHO LUẬN HÁN VIỆT
     </a>
   </div>
@@ -10,9 +10,8 @@
   </div>
 
   <nav class="book-menu-content" style="background: transparent !important; padding: 0 !important;">
-    {{ $target := site.GetPage "luan" }}
+    {{ $target := site.GetPage "Luan" }}
     {{ if $target }}
-      {{/* Lưu lại ngữ cảnh trang hiện tại vào biến $currentPage trước khi vào template */}}
       {{ $currentPage := . }}
       <ul style="list-style: none; padding-left: 0; margin: 0;">
         {{ template "toc-tree" (dict "pages" $target.Pages "current" $currentPage) }}
@@ -21,7 +20,6 @@
   </nav>
 </div>
 
-{{/* Sửa hàm đệ quy nhận dữ liệu dạng từ điển (dict) để không bị mất ngữ cảnh */}}
 {{ define "toc-tree" }}
   {{ $currentPage := .current }}
   {{ range .pages }}
