@@ -7,12 +7,14 @@ Như thị ngã văn: Nhất thời Phật tại Xá-vệ quốc, Kỳ-thọ C�
 Nhĩ thời Phật cáo Trưởng lão Xá-Lợi-Phất: "Tòng thị tây phương, quá thập vạn ức Phật độ, hữu thế giới danh viết Cực Lạc. Bỉ độ hữu Phật, hiệu A Di Đà, kim hiện tại thuyết pháp.
 
 Xá-Lợi-Phất! Bỉ độ hà cố danh vi Cực Lạc? Kỳ quốc chúng sanh, vô hữu chúng khổ, đản thọ chư lạc, cố danh Cực Lạc.
-Hựu Xá-Lợi-Phất! Cực Lạc quốc độ, thất trùng lan thuẫn, thất trùng la võng, thất trùng hàng thọ, giai thị tứ bảo, châu tráp vi nhiễu, thị cố bỉ quốc danh vi Cực Lạc. 
 
-Hựu Xá-Lợi-Phất! Cực Lạc quốc độ hữu thất bảo trì, bát công đức thủy sung mãn kỳ trung, trì để thuần dĩ kim sa bố địa. Tứ biên giai đạo, kim, ngân, lưu ly, pha lê hợp thành. Thượng hữu lâu các, diệc dĩ kim, ngân, lưu ly, pha lê, xa cừ, xích châu, mã não nhi nghiêm sức chi. Trì trung liên hoa đại như xa luân, thanh sắc thanh quang, hoàng sắc hoàng quang, xích sắc xích quang, bạch sắc bạch quang, vi diệu hương khiết. 
+Hữu Xá-Lợi-Phất! Cực Lạc quốc độ, thất trùng lan thuẫn, thất trùng la võng, thất trùng hàng thọ, giai thị tứ bảo, châu tráp vi diệu, thị cố bỉ quốc danh vi Cực Lạc. 
+
+Hữu Xá-Lợi-Phất! Cực Lạc quốc độ hữu thất bảo trì, bát công đức thủy sung mãn kỳ trung, trì để thuần dĩ kim sa bố địa. Tứ biên giai đạo, kim, ngân, lưu ly, pha lê hợp thành. Thượng hữu lâu các, diệc dĩ kim, ngân, lưu ly, pha lê, xa cừ, xích châu, mã não nhi nghiêm sức chi. Trì trung liên hoa đại như xa luân, thanh sắc thanh quang, hoàng sắc hoàng quang, xích sắc xích quang, bạch sắc bạch quang, vi diệu hương khiết. 
 
 Xá-Lợi-Phất! Cực Lạc quốc độ thành tựu như thị công đức trang nghiêm. 
-Hựu Xá-Lợi-Phất! Bỉ Phật quốc độ, thường tác thiên nhạc, huỳnh kim vi địa, trú dạ lục thời, vũ thiên mạn-đà-la hoa. Kỳ độ chúng sanh, thường dĩ thanh đán, các dĩ y-kích, thạnh chúng diệu hoa, cúng dường tha phương thập vạn ức Phật, tức dĩ thực thời, hoàn đáo bổn quốc, phạn thực kinh hành. 
+
+Hữu Xá-Lợi-Phất! Bỉ Phật quốc độ, thường tác thiên nhạc, huỳnh kim vi địa, trú dạ lục thời, vũ thiên mạn-đà-la hoa. Kỳ độ chúng sanh, thường dĩ thanh đán, các dĩ y-kích, thạnh chúng diệu hoa, cúng dường tha phương thập vạn ức Phật, tức dĩ thực thời, hoàn đáo bổn quốc, phạn thực kinh hành. 
 
 Xá-Lợi-Phất! Cực Lạc quốc độ thành tựu như thị công đức trang nghiêm. 
 Phục thứ Xá-Lợi-Phất! Bỉ quốc thường hữu chủng chủng kỳ diệu tạp sắc chi điểu: Bạch hạc, khổng tước, anh võ, xá-lợi, ca-lăng-tần-già, cộng mạng chi điểu. Thị chư chúng điểu, trú dạ lục thời, xuất hòa nhã âm. Kỳ âm diễn xướng Ngũ căn, Ngũ lực, Thất Bồ-đề-phần, Bát Thánh-đạo-phần, như thị đẳng pháp. Kỳ độ chúng sanh, văn thị âm dĩ, giai tất niệm Phật, niệm Pháp, niệm Tăng. 
@@ -41,7 +43,7 @@ Xá-Lợi-Phất! Nhược hữu thiện nam tử, thiện nữ nhân, văn thuy
 
 Xá-Lợi-Phất! Ngã kiến thị lợi, cố thuyết thị ngôn: Nhược hữu chúng sanh văn thị thuyết giả, ứng đương phát nguyện, sinh bỉ quốc độ.
 
-Xá-Lợi-Phất! Như ngã kim giả, tán thán A Di Đà Phật bất khả tư nghị công đức lợi ích. Đông phương diệc hữu A-súc-bệ Phật, Tu-di-quang Phật, Đại-tu-di Phật, Tu-di-quang Phật, Diệu-âm Phật, như thị đẳng hằng hà sa số chư Phật, các ư kỳ quốc, xuất quảng trường thiệt tướng, biến phú tam thiên đại thiên thế giới, thuyết thành thực ngôn: "Nhữ đẳng chúng sanh, đương tín thị Xưng Tán Bất Khả Tư Nghị Công Đức Nhất Thiết Chư Phật Sở Hộ Niệm Kinh". 
+Xá-Lợi-Phất! Như ngã kim giả, tán thán A Di Đà Phật bất khả tư nghị công đức lợi ích. Đông phương diệc hữu A-súc-bệ Phật, Tu-di-quang Phật, Đại-tu-di Phật, Diệu-âm Phật, như thị đẳng hằng hà sa số chư Phật, các ư kỳ quốc, xuất quảng trường thiệt tướng, biến phú tam thiên đại thiên thế giới, thuyết thành thực ngôn: "Nhữ đẳng chúng sanh, đương tín thị Xưng Tán Bất Khả Tư Nghị Công Đức Nhất Thiết Chư Phật Sở Hộ Niệm Kinh". 
 
 Xá-Lợi-Phất! Nam phương thế giới hữu Nhật-Nguyệt-Đăng Phật, Danh-Văn-Quang Phật, Đại-Diệm-Kiên Phật, Tu-Di-Đăng Phật, Vô-Lượng-Tinh-Tấn Phật, như thị đẳng hằng hà sa số chư Phật, các ư kỳ quốc, xuất quảng trường thiệt tướng, biến phú tam thiên đại thiên thế giới, thuyết thành thực ngôn: "Nhữ đẳng chúng sanh, đương tín thị Xưng Tán Bất Khả Tư Nghị Công Đức Nhất Thiết Chư Phật Sở Hộ Niệm Kinh". 
 
@@ -67,6 +69,21 @@ Phật thuyết thị kinh dĩ, Xá-Lợi-Phất, cập chư Tỷ-kheo, nhất t
 
 
 Bạt Nhất Thiết Nghiệp Chướng Căn Bản Đắc Sinh Tịnh Độ Đà-La-Ni
-(Vãng Sinh Thần Chú)
 
-Nam-mô a-di-đa-bà-dạ, đa-tha-già-đa-dạ, đa-địa-dạ-tha. A-di-rị-đô-bà-tỳ, a-di-rị-đa tất-đam-bà-tỳ, a-di-rị-đa tỳ-ca-lan-đế, a-di-rị-đa tỳ-ca-lan-đa, già-mi-nị, già-già-na, chỉ-đa-ca-lệ, ta-bà-ha. (3 lần) 
+Nam-mô a-di-đa-bà-dạ, 
+
+đa-tha-già-đa-dạ, 
+
+đa-địa-dạ-tha. 
+
+A-di-rị-đô-bà-tỳ, 
+
+a-di-rị-đa tất-đam-bà-tỳ,
+
+a-di-rị-đa tỳ-ca-lan-đế, 
+
+a-di-rị-đa tỳ-ca-lan-đa, 
+
+già-mi-nị, già-già-na, 
+
+chỉ-đa-ca-lệ, ta-bà-ha. (3 lần) 
