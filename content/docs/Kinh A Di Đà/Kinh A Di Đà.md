@@ -2,13 +2,13 @@
 
 Dao Tần Tam Tạng Pháp Sư Cưu-Ma-La-Thập dịch
 
-Như thị ngã văn: Nhất thời Phật tại Xá-vệ quốc, Kỳ-thọ Cấp-cô-độc viên, dữ đại Tỷ-kheo chúng, thiên nhị bách ngũ thập nhân câu, giai thị đại A-la-hán, chúng sở tri thức: Trưởng lão Xá-Lợi-Phất, Ma-ha Mục-kiền-liên, Ma-ha Ca-diếp, Ma-ha Ca-chiên-diên, Ma-ha Câu-hy-la, Ly-bà-đa, Chu-lợi-bàn-đà-già, Nan-đà, A-nan-đà, La-hầu-la, Kiều-phạm-ba-đề, Tân-đầu-lô-phả-la-đọa, Khương-lưu-đà-di, Ma-ha Kiếp-tân-na, Bạc-câu-la, A-nâu-lâu-đà, như thị đẳng chư đại đệ tử. Cập chư Bồ-tát Ma-ha-tát: Văn-thù-sư-lợi Pháp-vương-tử, A-dật-đa Bồ-tát, Càn-đà-ha-đề Bồ-tát, Thường-tinh-tấn Bồ-tát, dữ như thị đẳng chư đại Bồ-tát. Cập Thích-đề-hoàn-nhân đẳng, vô lượng chư thiên đại chúng câu. 
+Như thị ngã văn: Nhất thời Phật tại Xá-vệ quốc, Kỳ-thụ Cấp-cô-độc viên, dữ đại Tỷ-kheo chúng, thiên nhị bách ngũ thập nhân câu, giai thị đại A-la-hán, chúng sở tri thức: Trưởng lão Xá-Lợi-Phất, Ma-ha Mục-kiền-liên, Ma-ha Ca-diếp, Ma-ha Ca-chiên-diên, Ma-ha Câu-hy-la, Ly-bà-đa, Chu-lợi-bàn-đà-già, Nan-đà, A-nan-đà, La-hầu-la, Kiều-phạm-ba-đề, Tân-đầu-lô-phả-la-đọa, Khương-lưu-đà-di, Ma-ha Kiếp-tân-na, Bạc-câu-la, A-nâu-lâu-đà, như thị đẳng chư đại đệ tử. Cập chư Bồ-tát Ma-ha-tát: Văn-thù-sư-lợi Pháp-vương-tử, A-dật-đa Bồ-tát, Càn-đà-ha-đề Bồ-tát, Thường-tinh-tấn Bồ-tát, dữ như thị đẳng chư đại Bồ-tát. Cập Thích-đề-hoàn-nhân đẳng, vô lượng chư thiên đại chúng câu. 
 
 Nhĩ thời Phật cáo Trưởng lão Xá-Lợi-Phất: "Tòng thị tây phương, quá thập vạn ức Phật độ, hữu thế giới danh viết Cực Lạc. Bỉ độ hữu Phật, hiệu A Di Đà, kim hiện tại thuyết pháp.
 
 Xá-Lợi-Phất! Bỉ độ hà cố danh vi Cực Lạc? Kỳ quốc chúng sanh, vô hữu chúng khổ, đản thọ chư lạc, cố danh Cực Lạc.
 
-Hữu Xá-Lợi-Phất! Cực Lạc quốc độ, thất trùng lan thuẫn, thất trùng la võng, thất trùng hàng thọ, giai thị tứ bảo, châu tráp vi diệu, thị cố bỉ quốc danh vi Cực Lạc. 
+Hữu Xá-Lợi-Phất! Cực Lạc quốc độ, thất trùng lan thuẫn, thất trùng la võng, thất trùng hàng thụ, giai thị tứ bảo, chu táp vi nhiễu, thị cố bỉ quốc danh vi Cực Lạc. 
 
 Hữu Xá-Lợi-Phất! Cực Lạc quốc độ hữu thất bảo trì, bát công đức thủy sung mãn kỳ trung, trì để thuần dĩ kim sa bố địa. Tứ biên giai đạo, kim, ngân, lưu ly, pha lê hợp thành. Thượng hữu lâu các, diệc dĩ kim, ngân, lưu ly, pha lê, xa cừ, xích châu, mã não nhi nghiêm sức chi. Trì trung liên hoa đại như xa luân, thanh sắc thanh quang, hoàng sắc hoàng quang, xích sắc xích quang, bạch sắc bạch quang, vi diệu hương khiết. 
 
