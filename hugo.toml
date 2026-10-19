@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'KHO KINH HÁN VIỆT'
+locale = 'vi'
+title = 'KHO TÀNG PHÁP BẢO'
 theme = 'hugo-book' 
 [markup]
   [markup.goldmark]
