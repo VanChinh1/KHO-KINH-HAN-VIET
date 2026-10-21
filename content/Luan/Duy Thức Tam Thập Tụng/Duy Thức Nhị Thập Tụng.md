@@ -1,3 +1,8 @@
+---
+title: "Duy Thứ Nhị Thập Tụng"
+bookCollapseSection: true
+weight: 1
+---
 DUY THỨC NHỊ THẬP TỤNG
 
 (Đại Thừa Duy Thức Luận)
