@@ -33,6 +33,7 @@ Xá-Lợi-Phất! A Di Đà Phật thành Phật dĩ lai, ư kim thập kiếp.
 Hựu Xá-Lợi-Phất! Bỉ Phật hữu vô lượng vô biên Thanh-văn đệ tử, giai A-la-hán, phi thị toán số sở năng tri chi; chư Bồ-tát chúng, diệc phục như thị.
 
 Xá-Lợi-Phất! Bỉ Phật quốc độ thành tựu như thị công đức trang nghiêm.
+
 Hựu Xá-Lợi-Phất! Cực Lạc quốc độ, chúng sanh sinh giả, giai thị A-bệ-bạt-trí. Kỳ trung hữu đa nhất sinh bổ xứ, kỳ số thậm đa, phi thị toán số sở năng tri chi, đản khả dĩ vô lượng vô biên a-tăng-kỳ thuyết.
 
 Xá-Lợi-Phất! Chúng sanh văn giả, ứng đương phát nguyện, nguyện sinh bỉ quốc. Sở dĩ giả hà? Đắc dữ như thị chư thượng thiện nhân câu hội một xứ.
