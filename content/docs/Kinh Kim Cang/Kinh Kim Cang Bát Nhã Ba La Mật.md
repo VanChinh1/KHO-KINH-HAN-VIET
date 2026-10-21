@@ -239,8 +239,11 @@ Phân 32: Ứng Hóa Phi Thực
 Vân hà vi nhân diễn thuyết? Bất thủ ư tướng, như như bất động. Hà dĩ cố?"
 
 "Nhất thiết hữu vi pháp,
+
 Như mộng, huyễn, bào, ảnh,
+
 Như lộ, diệc như điện,
+
 Ứng tác như thị quán."
 
 Phật thuyết thử kinh ngật, Trưởng lão Tu-bồ-đề, dĩ cấp chư tỳ-kheo, tỳ-kheo-ni, ưu-bà-tắc, ưu-bà-di, nhất thiết thế gian thiên, nhân, a-tu-la, văn Phật sở thuyết, giai đại hoan hỷ, tín thọ phụng hành.
