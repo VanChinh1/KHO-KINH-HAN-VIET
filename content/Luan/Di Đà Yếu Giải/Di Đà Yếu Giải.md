@@ -15,26 +15,32 @@ Cổ lai chú sớ đại bất phạp nhân, thế viễn tựu yên sở tồn
 Tương giải kinh văn, tiên dịch ngũ trọng huyền nghĩa.
  
 NGŨ TRỌNG HUYỀN NGHĨA
+
 Đệ Nhất, Thích Danh
 Thử kinh dĩ năng thuyết, sở thuyết nhân vi danh.
 •Phật giả: Thử thổ năng thuyết chi giáo chủ, tức Thích Ca Mâu Ni Như Lai, thừa đại bi nguyện lực sinh ngũ trọc ác thế, dĩ tiên giác nhi giác hậu giác, vô pháp bất tri vô pháp bất kiến cố danh Phật dã.
 •Thuyết giả: Duyệt sở hoài dã, Phật dĩ độ sinh vi hoài, chúng sinh cơ thục, Phật vi ứng thời thuyết pháp lệnh đắc độ thoát, cố duyệt dã.
 •A Di Đà giả: Tức sở thuyết bỉ thổ chi đạo sư, dĩ tứ thập bát nguyện tiếp tín nguyện niệm Phật chúng sinh, lệnh sinh Cực Lạc thế giới vĩnh giai bất thoái giả dã. Phạn ngữ A Di Đà, thử vân Vô Lượng Thọ, diệc vân Vô Lượng Quang. Dĩ yếu ngôn chi, công đức trí tuệ, thần thông đạo lực, y chánh trang nghiêm, thuyết pháp hóa độ, nhất nhất vô lượng, liêu cử thọ mạng, quang minh nhị sự dĩ vi ngôn đoan nhĩ.
 •Kinh giả: Huấn pháp huấn thường, nhất thiết kim khẩu sở tuyên通 danh vi kinh, kim đối Phật Thuyết A Di Đà ngũ tự, tức thị thông biệt hạp vi đề dã.
+
 Đệ Nhị, Biện Thể
 Chư đại thừa kinh giai dĩ thực tướng vi chánh thể. Hà vị thực tướng? Tức hiện tiền nhất niệm tâm chi tự tính thị dã. Ngô nhân hiện tiền nhất niệm tâm tính, bất tại nội, bất tại ngoại, bất tại trung gian, phi quá khứ, phi hiện tại, phi vị lai, phi thanh hoàng xích bạch, phi trường đoản phương viên, phi hương, phi vị, phi xúc, phi pháp, mịch chi liễu bất khả đắc nhi bất khả ngôn kỳ vô, cụ tạo bách giới thiên như nhi bất khả ngôn kỳ hữu, ly nhất thiết duyên lự phân biệt tướng, nhi duyên lự phân biệt diệc phi ly thử thực tướng biệt hữu tự tính, ly nhất thiết ngữ ngôn văn tự tướng, nhi ngữ ngôn văn tự diệc phi ly thử thực tướng biệt hữu tự tính. 
+
 Dĩ yếu ngôn chi, ly nhất thiết tướng, tức nhất thiết pháp, duy kỳ ly nhất thiết tướng cố vô tướng, duy kỳ tức nhất thiết pháp cố vô bất tướng, vô tướng vô bất tướng cố bất đắc dĩ cưỡng danh thực tướng. Thực tướng chi thể phi tịch phi chiếu, nhi phục tịch nhi hằng chiếu, chiếu nhi hằng tịch, chiếu nhi hằng tịch cưỡng danh vi Thường Tịch Quang thổ, tịch nhi hằng chiếu cưỡng danh Thanh Tịnh Pháp Thân. Đương tri tịch chiếu bất nhị, tính tu bất nhị, thân thổ bất nhị vô phi thực tướng, thực tướng vô nhị diệc vô bất nhị, thị cố cử thể tác y, tác chánh, tác pháp, tác báo, tác tự, tác tha, nãi chí năng thuyết sở thuyết, năng độ sở độ, năng tín sở tín, năng nguyện sở nguyện, năng trì sở trì, năng sinh sở sinh, năng tán sở tán, vô phi thực tướng chánh ấn chi sở ấn dã. 
+
 Đệ Tam, Minh Tông
 Tông thị tu hành chi yếu kính, hội thể chi xu cơ, nhi vạn hạnh chi giảng lĩnh dã. Thử kinh dĩ tín nguyện trì danh vi tu hành chi tông yếu.
 •Tín tắc: Tín tự, tín tha, tín nhân, tín quả, tín sự, tín lý.
 •Nguyện tắc: Yếm ly Ta Bà, hân cầu Cực Lạc.
 •Hạnh tắc: Chấp trì danh hiệu, nhất tâm bất loạn.
+
 Đệ Tứ, Minh Lực Dụng
 Vãng sinh bất thoái vi lực dụng. Vãng sinh hữu tứ thổ, các đắc luận cửu phẩm. Bất thoái hữu tứ nghĩa:
 1.Niệm bất thoái
 2.Hạnh bất thoái
 3.Vị bất thoái
 4.Tất cánh bất thoái
+
 Đệ Ngũ, Giáo Tướng
 Thử thị đại thừa Bồ Tát tạng nhiếp, hựu thị vô vấn tự thuyết, triệt để đại từ chi sở gia trì, năng lệnh mạt pháp đa chướng hữu情依 tư kính đăng bất thoái. Thí như A Già Đà dược vạn bệnh tổng trì, tuyệt đãi viên dung bất khả tư nghị.
  
@@ -82,6 +88,7 @@ Thánh nhân sở cư vân "Tại". Xá-vệ, thử vân Thắng Lâm, diệc v�
 •Tam, Vô sinh (bất phục sinh tử)
 "Đại" giả, Đức cao vọng trọng. "Chúng sở trí thức" giả, Chư thiên, nhân loại giai sở tri tri, tri kỳ đức hạnh, thức kỳ danh tự.
 7. Liệt danh mười sáu vị Đại Tôn Giả:
+
 •Trưởng lão Xá-lợi-phất: Thân tử, Trí tuệ đệ nhất.
 •Ma-ha Mục-kiền-liên: Đại Thái mục kiền liên, Thần thông đệ nhất.
 •Ma-ha Ca-diếp: Đại Ẩm quang, Đầu-đà đệ nhất.
@@ -101,7 +108,7 @@ Thánh nhân sở cư vân "Tại". Xá-vệ, thử vân Thắng Lâm, diệc v�
 
 Kinh văn tiếp:
 
-Tịnh chư Bồ-tát摩-ha-tát: Pháp-vương-tử Văn-thù-sư-lợi Bồ-tát, A-dật-đa Bồ-tát, Càn-đà-ha-đề Bồ-tát, Thường-tinh-tấn Bồ-tát, dữ như thị đẳng chư đại Bồ-tát.
+Tịnh chư Bồ-tát-ma-ha-tát: Văn-thù-sư-lợi Pháp-vương-tử Bồ-tát, A-dật-đa Bồ-tát, Càn-đà-ha-đề Bồ-tát, Thường-tinh-tấn Bồ-tát, dữ như thị đẳng chư đại Bồ-tát.
 
 Yếu Giải:
 
