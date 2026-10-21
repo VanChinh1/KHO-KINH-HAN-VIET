@@ -6,6 +6,7 @@ weight: 1
 PHẬT THUYẾT A DI ĐÀ KINH YẾU GIẢI
 
 Tam Tạng Pháp Sư Cưu Ma La Thập dịch
+
 Tây Hữu Sa Môn Ngẫu Ích Trí Húc giải
 
 TỰA MỞ ĐẦU
@@ -17,36 +18,58 @@ Tương giải kinh văn, tiên dịch ngũ trọng huyền nghĩa.
 NGŨ TRỌNG HUYỀN NGHĨA
 
 Đệ Nhất, Thích Danh
+
 Thử kinh dĩ năng thuyết, sở thuyết nhân vi danh.
+
 •Phật giả: Thử thổ năng thuyết chi giáo chủ, tức Thích Ca Mâu Ni Như Lai, thừa đại bi nguyện lực sinh ngũ trọc ác thế, dĩ tiên giác nhi giác hậu giác, vô pháp bất tri vô pháp bất kiến cố danh Phật dã.
+
 •Thuyết giả: Duyệt sở hoài dã, Phật dĩ độ sinh vi hoài, chúng sinh cơ thục, Phật vi ứng thời thuyết pháp lệnh đắc độ thoát, cố duyệt dã.
+
 •A Di Đà giả: Tức sở thuyết bỉ thổ chi đạo sư, dĩ tứ thập bát nguyện tiếp tín nguyện niệm Phật chúng sinh, lệnh sinh Cực Lạc thế giới vĩnh giai bất thoái giả dã. Phạn ngữ A Di Đà, thử vân Vô Lượng Thọ, diệc vân Vô Lượng Quang. Dĩ yếu ngôn chi, công đức trí tuệ, thần thông đạo lực, y chánh trang nghiêm, thuyết pháp hóa độ, nhất nhất vô lượng, liêu cử thọ mạng, quang minh nhị sự dĩ vi ngôn đoan nhĩ.
+
 •Kinh giả: Huấn pháp huấn thường, nhất thiết kim khẩu sở tuyên通 danh vi kinh, kim đối Phật Thuyết A Di Đà ngũ tự, tức thị thông biệt hạp vi đề dã.
 
 Đệ Nhị, Biện Thể
+
 Chư đại thừa kinh giai dĩ thực tướng vi chánh thể. Hà vị thực tướng? Tức hiện tiền nhất niệm tâm chi tự tính thị dã. Ngô nhân hiện tiền nhất niệm tâm tính, bất tại nội, bất tại ngoại, bất tại trung gian, phi quá khứ, phi hiện tại, phi vị lai, phi thanh hoàng xích bạch, phi trường đoản phương viên, phi hương, phi vị, phi xúc, phi pháp, mịch chi liễu bất khả đắc nhi bất khả ngôn kỳ vô, cụ tạo bách giới thiên như nhi bất khả ngôn kỳ hữu, ly nhất thiết duyên lự phân biệt tướng, nhi duyên lự phân biệt diệc phi ly thử thực tướng biệt hữu tự tính, ly nhất thiết ngữ ngôn văn tự tướng, nhi ngữ ngôn văn tự diệc phi ly thử thực tướng biệt hữu tự tính. 
 
 Dĩ yếu ngôn chi, ly nhất thiết tướng, tức nhất thiết pháp, duy kỳ ly nhất thiết tướng cố vô tướng, duy kỳ tức nhất thiết pháp cố vô bất tướng, vô tướng vô bất tướng cố bất đắc dĩ cưỡng danh thực tướng. Thực tướng chi thể phi tịch phi chiếu, nhi phục tịch nhi hằng chiếu, chiếu nhi hằng tịch, chiếu nhi hằng tịch cưỡng danh vi Thường Tịch Quang thổ, tịch nhi hằng chiếu cưỡng danh Thanh Tịnh Pháp Thân. Đương tri tịch chiếu bất nhị, tính tu bất nhị, thân thổ bất nhị vô phi thực tướng, thực tướng vô nhị diệc vô bất nhị, thị cố cử thể tác y, tác chánh, tác pháp, tác báo, tác tự, tác tha, nãi chí năng thuyết sở thuyết, năng độ sở độ, năng tín sở tín, năng nguyện sở nguyện, năng trì sở trì, năng sinh sở sinh, năng tán sở tán, vô phi thực tướng chánh ấn chi sở ấn dã. 
 
 Đệ Tam, Minh Tông
+
 Tông thị tu hành chi yếu kính, hội thể chi xu cơ, nhi vạn hạnh chi giảng lĩnh dã. Thử kinh dĩ tín nguyện trì danh vi tu hành chi tông yếu.
+
 •Tín tắc: Tín tự, tín tha, tín nhân, tín quả, tín sự, tín lý.
+
 •Nguyện tắc: Yếm ly Ta Bà, hân cầu Cực Lạc.
+
 •Hạnh tắc: Chấp trì danh hiệu, nhất tâm bất loạn.
 
 Đệ Tứ, Minh Lực Dụng
+
 Vãng sinh bất thoái vi lực dụng. Vãng sinh hữu tứ thổ, các đắc luận cửu phẩm. Bất thoái hữu tứ nghĩa:
+
 1.Niệm bất thoái
+
 2.Hạnh bất thoái
+
 3.Vị bất thoái
+
 4.Tất cánh bất thoái
 
 Đệ Ngũ, Giáo Tướng
-Thử thị đại thừa Bồ Tát tạng nhiếp, hựu thị vô vấn tự thuyết, triệt để đại từ chi sở gia trì, năng lệnh mạt pháp đa chướng hữu情依 tư kính đăng bất thoái. Thí như A Già Đà dược vạn bệnh tổng trì, tuyệt đãi viên dung bất khả tư nghị.
+
+Thử thị đại thừa Bồ Tát tạng nhiếp, hựu thị vô vấn tự thuyết, triệt để đại từ chi sở gia trì, năng lệnh mạt pháp đa chướng hữu 情依 tư kính đăng bất thoái. Thí như A Già Đà dược vạn bệnh tổng trì, tuyệt đãi viên dung bất khả tư nghị.
  
 CHÁNH THÍCH KINH VĂN
+
 Nhập văn vi tam: Nhất Tựa phân, nhị Chánh Tông phân, tam Lưu Thông phân. Thần Trấn đại sư vân: "Tựa như thủ mục, Chánh Tông như tạng phủ, Lưu Thông như vũ mạo." Triệt thủ triệt vĩ, đẳng vô sai biệt, bất khả thiên phế. Kim sơ Tựa phân.
-Tựa phân phục nhị: Nhất Thông tựa (Nhập nghĩa tựa), nhị Biệt tựa (Phát khởi tựa).
+
+Tựa phân phục nhị: 
+
+Nhất Thông tựa (Nhập nghĩa tựa), 
+
+Nhị Biệt tựa (Phát khởi tựa).
 
 I. THÔNG TỰA (NHẬP NGHĨA TỰA)
 
@@ -74,36 +97,61 @@ Thánh nhân sở cư vân "Tại". Xá-vệ, thử vân Thắng Lâm, diệc v�
 5. Dữ đại Tỳ-kheo tăng, thiên nhị bách ngũ thập nhân câu:
 
 "Dữ" giả, đồng xứ, đồng thì, đồng hội. "Tỳ-kheo" thị Phạn ngữ, hàm tam nghĩa:
+
 •Nhất, Phá ác (phá phiền não)
+
 •Nhị, Bố ma (khiến ma vương sợ hãi)
+
 •Tam, Khất sĩ (trên xin pháp nuôi tuệ mạng, dưới xin ăn nuôi thân mệnh)
+
 "Tăng" giả, Tăng-già, thử vân Hòa hợp chúng. Sự hòa hữu tứ (Đồng cư, Đồng giới, Đồng kiến, Đồng lợi), Lý hòa hữu nhất (Đồng chứng trạch diệt).
+
 "Thiên nhị bách ngũ thập nhân" giả, Tam Ca-diếp sư đồ bách nhân, Mục-kiền-liên sư đồ nhị bách ngũ thập nhân, Xá-lợi-phất sư đồ nhị bách ngũ thập nhân, Xá-lợi phất đẳng phụng chỉ quy Phật, cố vị Thường tùy chúng, Tiên độ tam huynh đệ, thứ độ nhị đại đệ tử, cảm Phật thâm ân, cố thường tùy Phật.
 
 6. Giai thị đại A-la-hán, chúng sở trí thức:
 
 "A-la-hán" diệc hàm tam nghĩa:
+
 •Nhất, Ứng cúng (ứng thọ nhân thiên cúng dưỡng)
+
 •Nhị, Sát tặc (diệt trừ phiền não tặc)
+
 •Tam, Vô sinh (bất phục sinh tử)
+
 "Đại" giả, Đức cao vọng trọng. "Chúng sở trí thức" giả, Chư thiên, nhân loại giai sở tri tri, tri kỳ đức hạnh, thức kỳ danh tự.
+
 7. Liệt danh mười sáu vị Đại Tôn Giả:
 
 •Trưởng lão Xá-lợi-phất: Thân tử, Trí tuệ đệ nhất.
+
 •Ma-ha Mục-kiền-liên: Đại Thái mục kiền liên, Thần thông đệ nhất.
+
 •Ma-ha Ca-diếp: Đại Ẩm quang, Đầu-đà đệ nhất.
+
 •Ma-ha Ca-chiên-diên: Đại Định kiên, Luận nghị đệ nhất.
+
 •Ma-ha Câu-hi La: Đại Thắng tư, Phân biệt sở vấn đệ nhất.
+
 •Ly-bà-đa: Thất tinh/Bất khởi phiền não, Vô đảo loạn đệ nhất.
+
 •Chu-lợi Bàn-đà-già: Kế đạo, Nghĩa trì/Nghĩa tịnh đệ nhất.
+
 •Nan-đà: Hỷ, Nghi dung đệ nhất.
+
 •A-nan-đà: Khánh hỷ, Đa văn đệ nhất.
+
 •La-hầu-la: Mật hành đệ nhất.
+
 •Kiều-phạm-ba-đề: Ngưu ty, Thọ thiên cúng dưỡng đệ nhất.
+
 •Tân-đầu-lô Phả-la-đọa: Bất động lợi căn, Phước điền đệ nhất, Cửu trụ thế gian.
+
 •Ca-lưu-đà-di: Hắc quang, Giáo hóa đệ nhất.
-•Ma-ha Kiếp-tân-na: Phòng宿, Tri tinh tú đệ nhất.
+
+•Ma-ha Kiếp-tân-na: Phòng 宿, Tri tinh tú đệ nhất.
+
 •Bạc-câu-la: Vĩ thú, Thọ mệnh đệ nhất (ngũ chủng bất tử).
+
 •A-nậu-lâu-đà: Vô bần / Thiên nhãn đệ nhất.
 
 Kinh văn tiếp:
