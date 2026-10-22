@@ -16,17 +16,20 @@ Xá-Lợi-Phất! Cực Lạc quốc độ thành tựu như thị công đức 
 
 Hữu Xá-Lợi-Phất! Bỉ Phật quốc độ, thường tác thiên nhạc, huỳnh kim vi địa, trú dạ lục thời, vũ thiên mạn-đà-la hoa. Kỳ độ chúng sanh, thường dĩ thanh đán, các dĩ y-kích, thạnh chúng diệu hoa, cúng dường tha phương thập vạn ức Phật, tức dĩ thực thời, hoàn đáo bổn quốc, phạn thực kinh hành. 
 
-Xá-Lợi-Phất! Cực Lạc quốc độ thành tựu như thị công đức trang nghiêm. 
+Xá-Lợi-Phất! Cực Lạc quốc độ thành tựu như thị công đức trang nghiêm.
+
 Phục thứ Xá-Lợi-Phất! Bỉ quốc thường hữu chủng chủng kỳ diệu tạp sắc chi điểu: Bạch hạc, khổng tước, anh võ, xá-lợi, ca-lăng-tần-già, cộng mạng chi điểu. Thị chư chúng điểu, trú dạ lục thời, xuất hòa nhã âm. Kỳ âm diễn xướng Ngũ căn, Ngũ lực, Thất Bồ-đề-phần, Bát Thánh-đạo-phần, như thị đẳng pháp. Kỳ độ chúng sanh, văn thị âm dĩ, giai tất niệm Phật, niệm Pháp, niệm Tăng. 
 
 Xá-Lợi-Phất! Nhữ vật vị thị điểu, thực thị tội báo sở sanh. Sở dĩ giả hà? Bỉ Phật quốc độ, vô tam ác đạo. Xá-Lợi-Phất! Bỉ Phật quốc độ, thượng vô ác đạo chi danh, hà huống hữu thực? Thị chư chúng điểu, giai thị A Di Đà Phật dục tuyên lưu pháp âm, biến hóa sở tác.
 
 Xá-Lợi-Phất! Bỉ Phật quốc độ, vi phong xuy động, chư bảo hàng thọ, cập bảo la võng, xuất vi diệu âm, thí như bách thiên chủng nhạc đồng thì câu tác. Văn thị âm giả, tự nhiên giai sinh niệm Phật, niệm Pháp, niệm Tăng chi tâm. 
+
 Xá-Lợi-Phất! Kỳ Phật quốc độ thành tựu như thị công đức trang nghiêm. 
 
 Xá-Lợi-Phất! Ư nhữ ý vân hà? Bỉ Phật hà cố hiệu A Di Đà? 
 
 Xá-Lợi-Phất! Bỉ Phật quang minh vô lượng, chiếu thập phương quốc, vô sở chướng ngại, thị cố hiệu vi A Di Đà.
+
 Hựu Xá-Lợi-Phất! Bỉ Phật thọ mạng, cập kỳ nhân dân, vô lượng vô biên a-tăng-kỳ kiếp, cố danh A Di Đà.
 Xá-Lợi-Phất! A Di Đà Phật thành Phật dĩ lai, ư kim thập kiếp.
 
