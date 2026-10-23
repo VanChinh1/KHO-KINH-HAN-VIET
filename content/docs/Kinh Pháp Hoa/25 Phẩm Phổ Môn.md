@@ -12,7 +12,7 @@ Nhược hữu bách thiên vạn ức chúng sinh, vi cầu kim, ngân, lưu-ly
 
 Nhược phục hữu nhân lâm đương hại hình, xưng Quán-Thế-Âm Bồ-tát danh giả, bỉ sở chấp đao trượng xung tầm đoạn đoạn hoại, nhi đắc giải thoát.
 
-Nhược tam thiên đại thiên quốc độ mãn trung Dạ-xoa, La-sát dục lai não nhân, văn kỳ xưng Quán-Thế-Âm Bồ-tát danh giả, thị chư ác quỷ thượng bất năng dĩ ác nhãn thị chi, huống phục加 hại?
+Nhược tam thiên đại thiên quốc độ mãn trung Dạ-xoa, La-sát dục lai não nhân, văn kỳ xưng Quán-Thế-Âm Bồ-tát danh giả, thị chư ác quỷ thượng bất năng dĩ ác nhãn thị chi, huống phục gia hại?
 
 Giả sử phục hữu nhân, nhược hữu tội, nhược vô tội, trược lộc giô tỏa gia khóa kỳ thân, xưng Quán-Thế-Âm Bồ-tát danh giả, giai tất đoạn hoại, tức đắc giải thoát.
 
