@@ -297,4 +297,5 @@ Phúc hải vô lượng cốc,
 Thị cố ứng đỉnh lễ!
 
 Nhĩ thì Trì-Địa Bồ-tát tức tùng tòa khởi, tiền bạch Phật ngôn: "Thế Tôn! Nhược hữu chúng sinh văn thị Quán-Thế-Âm Bồ-tát Phẩm Tự-tai Chi Nghiệp, Phổ-Môn Thị-Hiện Thần-Thông Lực Giả, đương tri thị nhân công đức bất thiểu!"
+
 Phật thuyết thị Phổ-Môn Phẩm thì, đại chúng trung bát vạn tứ thiên chúng sinh giai phát Vô-thượng Chánh-đẳng Chánh-giác tâm.
