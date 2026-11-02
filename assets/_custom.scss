@@ -1,23 +1,10 @@
-/* --- XỬ LÝ MENU DI ĐỘNG BẰNG TRẠNG THÁI BODY --- */
 @media screen and (max-width: 55.99rem) {
-  /* Ẩn cột phải trên điện thoại để không bị lỗi đẩy trang */
+  /* Ẩn cột phải trên điện thoại */
   aside.book-toc {
     display: none !important;
   }
 
-  /* Đưa header và nút 3 gạch lên lớp trên cùng để bấm nhạy tuyệt đối */
-  .book-header {
-    position: sticky !important;
-    top: 0 !important;
-    z-index: 99999 !important;
-  }
-
-  .book-header label {
-    cursor: pointer !important;
-    z-index: 100000 !important;
-  }
-
-  /* Trạng thái mặc định của menu trái trên điện thoại (ẩn sang trái) */
+  /* Định vị menu trái mặc định ẩn */
   aside.book-menu {
     position: fixed !important;
     top: 0 !important;
@@ -31,13 +18,13 @@
     visibility: hidden;
   }
 
-  /* KHI THẺ BODY CÓ CLASS 'menu-open', MENU SẼ TRƯỢT RA MƯỢT MÀ */
+  /* Khi body có class menu-open thì trượt menu ra */
   body.menu-open aside.book-menu {
     transform: translateX(0) !important;
     visibility: visible !important;
   }
 
-  /* Lớp nền mờ tối khi mở menu */
+  /* Lớp phủ mờ tối nền */
   body.menu-open::before {
     content: "" !important;
     position: fixed !important;
