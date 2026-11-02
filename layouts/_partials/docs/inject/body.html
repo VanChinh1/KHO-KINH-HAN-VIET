@@ -1,24 +1,21 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    // Bắt sự kiện khi bấm vào nhãn nút 3 gạch hoặc checkbox
-    const menuLabel = document.querySelector('label[for="menu-control"]');
-    const menuControl = document.querySelector("#menu-control");
-
-    if (menuLabel) {
-      menuLabel.addEventListener("click", function () {
-        // Đảo trạng thái class 'menu-open' trên thẻ body
+    // Tự động tìm mọi nút bấm hoặc nhãn mở menu trên màn hình di động
+    const toggles = document.querySelectorAll('label[for*="menu"], .book-menu-button, header label');
+    
+    toggles.forEach(toggle => {
+      toggle.addEventListener("click", function (e) {
+        // Kích hoạt class toggle cho body để CSS quản lý hiển thị
         document.body.classList.toggle("menu-open");
       });
-    }
+    });
 
-    // Bấm vào vùng nền tối bên ngoài để đóng menu
+    // Bấm ra vùng nền tối bên ngoài để đóng menu
     document.addEventListener("click", function (e) {
       if (document.body.classList.contains("menu-open")) {
-        // Nếu bấm ra ngoài khung menu và không bấm vào nút mở
         const menu = document.querySelector("aside.book-menu");
-        if (menu && !menu.contains(e.target) && menuLabel && !menuLabel.contains(e.target)) {
+        if (menu && !menu.contains(e.target) && !e.target.closest('label') && !e.target.closest('input')) {
           document.body.classList.remove("menu-open");
-          if (menuControl) menuControl.checked = false;
         }
       }
     });
