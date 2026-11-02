@@ -33,85 +33,23 @@ article p,
 .markdown p {
   text-align: justify !important;
 }
-/* --- KHẮC PHỤC TRIỆT ĐỂ LỖI KẸT NÚT 3 GẠCH TRÊN ĐIỆN THOẠI --- */
+
+/* --- TỐI ƯU GIAO DIỆN TRÊN ĐIỆN THOẠI (SỬ DỤNG CƠ CHẾ GỐC CỦA HUGO BOOK) --- */
 @media screen and (max-width: 55.99rem) {
-  /* 1. Ẩn hoàn toàn cột phải để tránh chiếm không gian và che khuất */
+  /* Ẩn hoàn toàn cột mục lục bên phải để không bị đẩy trang */
   aside.book-toc {
     display: none !important;
-    pointer-events: none !important;
   }
 
-  /* 2. Đưa Header và nút 3 gạch lên lớp tương tác cao nhất */
+  /* Đưa thanh tiêu đề và nút 3 gạch lên lớp trên cùng để bấm nhạy tuyệt đối */
   .book-header {
     position: sticky !important;
     top: 0 !important;
     z-index: 99999 !important;
-    pointer-events: auto !important;
   }
 
-  /* 3. Đảm bảo nhãn (label) của nút 3 gạch nhận diện thao tác chạm tối đa */
   .book-header label {
     cursor: pointer !important;
-    pointer-events: auto !important;
-    display: inline-block !important;
-    position: relative !important;
     z-index: 100000 !important;
-  }
-
-  /* 4. Đảm bảo menu trượt phủ lên trên cùng khi được kích hoạt */
-  aside.book-menu {
-    z-index: 99998 !important;
-  }
-}
-/* --- KHẮC PHỤC TRIỆT ĐỂ: ÉP MENU TRÁI XỔ RA KHI BẤM --- */
-@media screen and (max-width: 55.99rem) {
-  /* 1. Đảm bảo trạng thái khi checkbox được bật (checked) thì menu trượt ra màn hình */
-  #menu-control:checked ~ .book-page aside.book-menu,
-  input#menu-control:checked ~ aside.book-menu,
-  .book-menu-content {
-    visibility: visible !important;
-  }
-
-  /* 2. Ép menu hiển thị đè lên màn hình với vị trí chính xác */
-  aside.book-menu {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    bottom: 0 !important;
-    width: 280px !important;
-    transform: translateX(-100%) !important;
-    transition: transform 0.25s ease-in-out !important;
-    visibility: hidden;
-  }
-
-  /* 3. Khi nút 3 gạch được kích hoạt, menu sẽ tự động trượt vào trong khung nhìn */
-  input#menu-control:checked ~ aside.book-menu {
-    transform: translateX(0) !important;
-    visibility: visible !important;
-  }
-}
-/* --- SỬA TRIỆT ĐỂ: ÉP MENU TRÁI XỔ RA KHI BẬT CHECKBOX --- */
-@media screen and (max-width: 55.99rem) {
-  /* Ép menu hiển thị và trượt vào màn hình khi checkbox được check bất kể cấu trúc lồng nhau */
-  input#menu-control:checked ~ aside.book-menu,
-  input#menu-control:checked ~ * aside.book-menu,
-  #menu-control:checked ~ .book-menu,
-  #menu-control:checked ~ * .book-menu {
-    transform: translateX(0) !important;
-    visibility: visible !important;
-    pointer-events: auto !important;
-  }
-
-  /* Đảm bảo trạng thái mặc định của menu khi chưa bấm (ẩn sang trái) */
-  aside.book-menu {
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    bottom: 0 !important;
-    width: 280px !important;
-    transform: translateX(-100%) !important;
-    transition: transform 0.25s ease-in-out !important;
-    visibility: hidden !important;
-    z-index: 99998 !important;
   }
 }
