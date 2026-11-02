@@ -1,31 +1,31 @@
 @media screen and (max-width: 55.99rem) {
-  /* Ẩn cột phải trên điện thoại */
+  /* Cho phép hiển thị cột Kho Luận nhưng ẩn nó sang bên phải màn hình ở trạng thái mặc định */
   aside.book-toc {
-    display: none !important;
-  }
-
-  /* Định vị menu trái mặc định ẩn */
-  aside.book-menu {
+    display: block !important;
     position: fixed !important;
     top: 0 !important;
-    left: 0 !important;
+    right: 0 !important;
     bottom: 0 !important;
     width: 280px !important;
     background-color: hsl(35, 80%, 40%) !important;
     z-index: 100001 !important;
-    transform: translateX(-100%) !important;
+    transform: translateX(100%) !important;
     transition: transform 0.25s ease-in-out !important;
     visibility: hidden;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.5) !important;
+    overflow-y: auto !important;
+    padding: 1.2rem !important;
+    box-sizing: border-box !important;
   }
 
-  /* Khi body có class menu-open thì trượt menu ra */
-  body.menu-open aside.book-menu {
+  /* Khi body có class toc-open thì Kho Luận trượt ra từ bên phải */
+  body.toc-open aside.book-toc {
     transform: translateX(0) !important;
     visibility: visible !important;
   }
 
-  /* Lớp phủ mờ tối nền */
-  body.menu-open::before {
+  /* Tạo lớp phủ mờ nền khi mở Kho Luận bên phải */
+  body.toc-open::before {
     content: "" !important;
     position: fixed !important;
     top: 0 !important;
