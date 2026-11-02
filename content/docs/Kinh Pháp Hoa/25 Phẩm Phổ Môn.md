@@ -2,7 +2,7 @@
 
 **PHẨM QUÁN THẾ ÂM BỒ TÁT PHỔ MÔN THỨ HAI MƯƠI LĂM**
 
-Nhĩ thì Cụ-thọ Vô-Tận-Ý Bồ-tát tức tùng tòa khởi, thiên thản hữu kiên, hợp chưởng hướng Phật nhi tác thị ngôn: "Thế Tôn! Quán-Thế-Âm Bồ-tát dĩ hà nhân duyên danh Quán-Thế-Âm?"
+Nhĩ thì Cụ-thọ Vô-Tận-Ý Bồ-tát tức tùng tòa khởi, thiên đản hữu kiên, hợp chưởng hướng Phật nhi tác thị ngôn: "Thế Tôn! Quán-Thế-Âm Bồ-tát dĩ hà nhân duyên danh Quán-Thế-Âm?"
 
 Phật cáo Vô-Tận-Ý Bồ-tát: "Thiện nam tử! Nhược hữu vô lượng bách thiên vạn ức chúng sinh thọ chư khổ não, văn thị Quán-Thế-Âm Bồ-tát, nhất tâm xưng danh, Quán-Thế-Âm Bồ-tát tức thì quán kỳ âm thanh, giai đắc giải thoát.
 
