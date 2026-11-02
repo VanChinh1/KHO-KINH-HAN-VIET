@@ -90,3 +90,28 @@ article p,
     visibility: visible !important;
   }
 }
+/* --- SỬA TRIỆT ĐỂ: ÉP MENU TRÁI XỔ RA KHI BẬT CHECKBOX --- */
+@media screen and (max-width: 55.99rem) {
+  /* Ép menu hiển thị và trượt vào màn hình khi checkbox được check bất kể cấu trúc lồng nhau */
+  input#menu-control:checked ~ aside.book-menu,
+  input#menu-control:checked ~ * aside.book-menu,
+  #menu-control:checked ~ .book-menu,
+  #menu-control:checked ~ * .book-menu {
+    transform: translateX(0) !important;
+    visibility: visible !important;
+    pointer-events: auto !important;
+  }
+
+  /* Đảm bảo trạng thái mặc định của menu khi chưa bấm (ẩn sang trái) */
+  aside.book-menu {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    width: 280px !important;
+    transform: translateX(-100%) !important;
+    transition: transform 0.25s ease-in-out !important;
+    visibility: hidden !important;
+    z-index: 99998 !important;
+  }
+}
