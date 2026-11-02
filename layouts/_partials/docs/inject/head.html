@@ -261,4 +261,11 @@
     background-color: rgba(255, 255, 255, 0.15) !important;
     font-weight: bold !important;
   }
+  /* 10. KHẮC PHỤC LỖI ĐẨY TRANG TRÊN ĐIỆN THOẠI CHO KHU VỰC BÊN PHẢI */
+  @media screen and (max-width: 55.99rem) {
+    /* Ẩn hẳn mục lục/kho luận cột phải trên điện thoại để tránh bị đè đẩy nội dung */
+    aside.book-toc {
+      display: none !important;
+    }
+  }
 </style>
