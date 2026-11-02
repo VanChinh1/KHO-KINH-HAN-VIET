@@ -50,7 +50,7 @@
   /* Tiêu đề & Chữ trong Menu Trái[cite: 6] */
   .book-menu .book-brand a, 
   .book-menu .book-brand {
-    color: blue !important;
+    color: #ffd700 !important;
     font-weight: bold !important;
     font-size: 1.2rem !important;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important;
@@ -102,10 +102,10 @@
     }
   }
 
- /* 6. ĐIỀU CHỈNH CHUYÊN BIỆT CHO ĐIỆN THOẠI[cite: 6] */
+  /* 6. ĐIỀU CHỈNH CHUYÊN BIỆT CHO ĐIỆN THOẠI[cite: 6] */
   @media screen and (max-width: 55.99rem) {
     .book-header {
-      background-color: rgba(70, 60, 50, 0.9) !important;
+      background-color: rgba(80, 65, 40, 0.9) !important;
       backdrop-filter: blur(6px) !important;
       color: gold !important;
       padding: 10px !important;
@@ -260,35 +260,5 @@
     color: #ffd700 !important;
     background-color: rgba(255, 255, 255, 0.15) !important;
     font-weight: bold !important;
-  }
- /* --- KHẮC PHỤC TRIỆT ĐỂ LỖI KẸT NÚT 3 GẠCH TRÊN ĐIỆN THOẠI --- */
-  @media screen and (max-width: 55.99rem) {
-    /* 1. Ẩn hoàn toàn cột phải để tránh chiếm không gian */
-    aside.book-toc {
-      display: none !important;
-      pointer-events: none !important;
-    }
-
-    /* 2. Đưa Header và nút 3 gạch lên lớp tương tác cao nhất, loại bỏ mọi vật cản */
-    .book-header {
-      position: sticky !important;
-      top: 0 !important;
-      z-index: 99999 !important;
-      pointer-events: auto !important;
-    }
-
-    /* 3. Đảm bảo nhãn (label) của nút 3 gạch nhận diện thao tác chạm tối đa */
-    .book-header label {
-      cursor: pointer !important;
-      pointer-events: auto !important;
-      display: inline-block !important;
-      position: relative !important;
-      z-index: 100000 !important;
-    }
-
-    /* 4. Đảm bảo menu trượt phủ lên trên cùng khi được kích hoạt */
-    aside.book-menu {
-      z-index: 99998 !important;
-    }
   }
 </style>
