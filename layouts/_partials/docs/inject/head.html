@@ -261,11 +261,24 @@
     background-color: rgba(255, 255, 255, 0.15) !important;
     font-weight: bold !important;
   }
-  /* 10. KHẮC PHỤC LỖI ĐẨY TRANG TRÊN ĐIỆN THOẠI CHO KHU VỰC BÊN PHẢI */
+  /* Khắc phục triệt để lỗi mất tương tác hoặc đè menu trên điện thoại */
   @media screen and (max-width: 55.99rem) {
-    /* Ẩn hẳn mục lục/kho luận cột phải trên điện thoại để tránh bị đè đẩy nội dung */
+    /* 1. Ẩn hoàn toàn mục lục/kho luận cột phải và chặn mọi tương tác nhầm */
     aside.book-toc {
       display: none !important;
+      pointer-events: none !important;
+    }
+
+    /* 2. Đảm bảo nút dấu 3 gạch (header) nằm ở lớp trên cùng và nhận diện chạm/nhấp chuột tốt nhất */
+    .book-header {
+      position: sticky !important;
+      top: 0 !important;
+      z-index: 9999 !important;
+    }
+
+    /* 3. Đảm bảo menu trái khi mở trên điện thoại phủ lên trên và hoạt động bình thường */
+    aside.book-menu {
+      z-index: 10000 !important;
     }
   }
 </style>
