@@ -34,7 +34,7 @@ article p,
   text-align: justify !important;
 }
 
-/* --- TỐI ƯU GIAO DIỆN TRÊN ĐIỆN THOẠI (SỬ DỤNG CƠ CHẾ GỐC CỦA HUGO BOOK) --- */
+/* --- XỬ LÝ TOÀN DIỆN GIAO DIỆN & MENU TRÊN ĐIỆN THOẠI --- */
 @media screen and (max-width: 55.99rem) {
   /* Ẩn hoàn toàn cột mục lục bên phải để không bị đẩy trang */
   aside.book-toc {
@@ -50,6 +50,46 @@ article p,
 
   .book-header label {
     cursor: pointer !important;
+    z-index: 100000 !important;
+    display: inline-block !important;
+  }
+
+  /* Định dạng menu trái ở trạng thái ẩn trên mobile */
+  aside.book-menu {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    bottom: 0 !important;
+    width: 280px !important;
+    background-color: hsl(35, 80%, 40%) !important;
+    z-index: 100001 !important;
+    transform: translateX(-100%) !important;
+    transition: transform 0.25s ease-in-out !important;
+    box-shadow: 5px 0 15px rgba(0, 0, 0, 0.5) !important;
+    visibility: hidden;
+  }
+
+  /* Ép mở menu bằng mọi biến thể cấu trúc checkbox của Hugo Book */
+  input#menu-control:checked ~ aside.book-menu,
+  input#menu-control:checked ~ * aside.book-menu,
+  input#menu-control:checked ~ .book-container aside.book-menu,
+  #menu-control:checked ~ aside.book-menu,
+  #menu-control:checked ~ * aside.book-menu,
+  .book-menu-control:checked ~ aside.book-menu {
+    transform: translateX(0) !important;
+    visibility: visible !important;
+  }
+
+  /* Tạo lớp phủ tối nền phía sau khi menu mở để dễ thao tác */
+  input#menu-control:checked ~ .book-page::before,
+  #menu-control:checked ~ .book-page::before {
+    content: "" !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    background: rgba(0, 0, 0, 0.5) !important;
     z-index: 100000 !important;
   }
 }
