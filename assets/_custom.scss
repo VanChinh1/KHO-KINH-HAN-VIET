@@ -1,47 +1,11 @@
-/* 1. Đặt ảnh nền cố định cho toàn trang */
-html, body {
-  background-image: url('/Background.png') !important;
-  background-repeat: no-repeat !important;
-  background-position: center top !important;
-  background-size: cover !important;
-  background-attachment: fixed !important;
-  background-color: transparent !important;
-}
-
-/* 2. Bắt buộc các lớp nền của Hugo Book phải trong suốt để lộ ảnh nền */
-.book-container, 
-.book-menu, 
-.book-page, 
-.book-toc,
-.book-header,
-aside,
-main {
-  background: transparent !important;
-}
-
-/* 3. Tạo khung màu trắng mờ cho phần nội dung để dễ đọc chữ */
-.book-page {
-  background-color: rgba(255, 255, 255, 0.88) !important;
-  padding: 2rem !important;
-  border-radius: 8px !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
-}
-
-/* 4. Căn đều hai bên cho toàn bộ văn bản */
-article p, 
-.book-page p, 
-.markdown p {
-  text-align: justify !important;
-}
-
-/* --- XỬ LÝ TOÀN DIỆN GIAO DIỆN & MENU TRÊN ĐIỆN THOẠI --- */
+/* --- XỬ LÝ MENU DI ĐỘNG BẰNG TRẠNG THÁI BODY --- */
 @media screen and (max-width: 55.99rem) {
-  /* Ẩn hoàn toàn cột mục lục bên phải để không bị đẩy trang */
+  /* Ẩn cột phải trên điện thoại để không bị lỗi đẩy trang */
   aside.book-toc {
     display: none !important;
   }
 
-  /* Đưa thanh tiêu đề và nút 3 gạch lên lớp trên cùng để bấm nhạy tuyệt đối */
+  /* Đưa header và nút 3 gạch lên lớp trên cùng để bấm nhạy tuyệt đối */
   .book-header {
     position: sticky !important;
     top: 0 !important;
@@ -51,10 +15,9 @@ article p,
   .book-header label {
     cursor: pointer !important;
     z-index: 100000 !important;
-    display: inline-block !important;
   }
 
-  /* Định dạng menu trái ở trạng thái ẩn trên mobile */
+  /* Trạng thái mặc định của menu trái trên điện thoại (ẩn sang trái) */
   aside.book-menu {
     position: fixed !important;
     top: 0 !important;
@@ -65,24 +28,17 @@ article p,
     z-index: 100001 !important;
     transform: translateX(-100%) !important;
     transition: transform 0.25s ease-in-out !important;
-    box-shadow: 5px 0 15px rgba(0, 0, 0, 0.5) !important;
     visibility: hidden;
   }
 
-  /* Ép mở menu bằng mọi biến thể cấu trúc checkbox của Hugo Book */
-  input#menu-control:checked ~ aside.book-menu,
-  input#menu-control:checked ~ * aside.book-menu,
-  input#menu-control:checked ~ .book-container aside.book-menu,
-  #menu-control:checked ~ aside.book-menu,
-  #menu-control:checked ~ * aside.book-menu,
-  .book-menu-control:checked ~ aside.book-menu {
+  /* KHI THẺ BODY CÓ CLASS 'menu-open', MENU SẼ TRƯỢT RA MƯỢT MÀ */
+  body.menu-open aside.book-menu {
     transform: translateX(0) !important;
     visibility: visible !important;
   }
 
-  /* Tạo lớp phủ tối nền phía sau khi menu mở để dễ thao tác */
-  input#menu-control:checked ~ .book-page::before,
-  #menu-control:checked ~ .book-page::before {
+  /* Lớp nền mờ tối khi mở menu */
+  body.menu-open::before {
     content: "" !important;
     position: fixed !important;
     top: 0 !important;
