@@ -6,7 +6,3 @@ theme = 'hugo-book'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-[params]
-  BookCustomCSS = ["_custom.css"]
-  # Đảm bảo cột bên phải (TOC) luôn hiển thị
-  BookToC = true
