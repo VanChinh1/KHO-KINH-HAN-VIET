@@ -1,6 +1,6 @@
 ---
 title: "Kinh Pháp Hoa"
 bookCollapseSection: true
-image: "Hoa tang hai hoi.jpg"
+image: "Pháp Hoa hải hội.png"
 weight: 1
 ---
